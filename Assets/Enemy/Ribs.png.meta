@@ -1,0 +1,3790 @@
+fileFormatVersion: 2
+guid: de68b26997bb82f4780aec7d1f44e9f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8648504709491755706
+    second: Ribs_0
+  - first:
+      213: -5100092026938006750
+    second: Ribs_1
+  - first:
+      213: 9166536623715900443
+    second: Ribs_2
+  - first:
+      213: 3028723570803082905
+    second: Ribs_3
+  - first:
+      213: -3899553590184289580
+    second: Ribs_4
+  - first:
+      213: 9110472421662861111
+    second: Ribs_5
+  - first:
+      213: -8253008916328711873
+    second: Ribs_6
+  - first:
+      213: -1257981321075818690
+    second: Ribs_7
+  - first:
+      213: 5614514918660728387
+    second: Ribs_8
+  - first:
+      213: 1814235681393724084
+    second: Ribs_9
+  - first:
+      213: -3827860171659063716
+    second: Ribs_10
+  - first:
+      213: 668273182558812573
+    second: Ribs_11
+  - first:
+      213: -8656173218547343151
+    second: Ribs_12
+  - first:
+      213: 315590235800221994
+    second: Ribs_13
+  - first:
+      213: 974778184394133351
+    second: Ribs_14
+  - first:
+      213: -1271885231828917610
+    second: Ribs_15
+  - first:
+      213: -6815507603351506479
+    second: Ribs_16
+  - first:
+      213: -5467484891608648845
+    second: Ribs_17
+  - first:
+      213: 4002604050904889124
+    second: Ribs_18
+  - first:
+      213: -3490016758420224019
+    second: Ribs_19
+  - first:
+      213: 5290566570398320240
+    second: Ribs_20
+  - first:
+      213: -1455278122725768935
+    second: Ribs_21
+  - first:
+      213: 4821178541503350295
+    second: Ribs_22
+  - first:
+      213: 5005020653141149303
+    second: Ribs_23
+  - first:
+      213: -8571830301481625601
+    second: Ribs_24
+  - first:
+      213: 2362238413637026007
+    second: Ribs_25
+  - first:
+      213: 7099421941364665765
+    second: Ribs_26
+  - first:
+      213: 4285054784073636691
+    second: Ribs_27
+  - first:
+      213: -8412680547998745128
+    second: Ribs_28
+  - first:
+      213: 260799831640800392
+    second: Ribs_29
+  - first:
+      213: 1147796460106668504
+    second: Ribs_30
+  - first:
+      213: 5303573800998074661
+    second: Ribs_31
+  - first:
+      213: 3902865822521488666
+    second: Ribs_32
+  - first:
+      213: -9207122430858788281
+    second: Ribs_33
+  - first:
+      213: -3058615527226510818
+    second: Ribs_34
+  - first:
+      213: -3051809782540199860
+    second: Ribs_35
+  - first:
+      213: 5132244995000647767
+    second: Ribs_36
+  - first:
+      213: 5197031778868072708
+    second: Ribs_37
+  - first:
+      213: -6067790650146751947
+    second: Ribs_38
+  - first:
+      213: -2338043371162171284
+    second: Ribs_39
+  - first:
+      213: 8061937171672095211
+    second: Ribs_40
+  - first:
+      213: 3923725742158384250
+    second: Ribs_41
+  - first:
+      213: -796221762158908863
+    second: Ribs_42
+  - first:
+      213: 1159850776420299674
+    second: Ribs_43
+  - first:
+      213: 7143855718416072214
+    second: Ribs_44
+  - first:
+      213: 948190312368628091
+    second: Ribs_45
+  - first:
+      213: -571766631194146669
+    second: Ribs_46
+  - first:
+      213: 5287803142443420831
+    second: Ribs_47
+  - first:
+      213: -6836960750221923159
+    second: Ribs_48
+  - first:
+      213: 4605947270409948664
+    second: Ribs_49
+  - first:
+      213: 6123333679161706833
+    second: Ribs_50
+  - first:
+      213: -109050231152345231
+    second: Ribs_51
+  - first:
+      213: 2773878395894779170
+    second: Ribs_52
+  - first:
+      213: -1550774654982061323
+    second: Ribs_53
+  - first:
+      213: -352447172067539505
+    second: Ribs_54
+  - first:
+      213: -4013214536450310273
+    second: Ribs_55
+  - first:
+      213: 725964928995243905
+    second: Ribs_56
+  - first:
+      213: -774640104963447349
+    second: Ribs_57
+  - first:
+      213: -4991640460642233169
+    second: Ribs_58
+  - first:
+      213: -2406990093279403584
+    second: Ribs_59
+  - first:
+      213: -1243853716781705028
+    second: Ribs_60
+  - first:
+      213: -1462676219916983366
+    second: Ribs_61
+  - first:
+      213: -994094387559470907
+    second: Ribs_62
+  - first:
+      213: -6860829090986042040
+    second: Ribs_63
+  - first:
+      213: 7944760235496186919
+    second: Ribs_64
+  - first:
+      213: 2414094330159839981
+    second: Ribs_65
+  - first:
+      213: -2300548052299069399
+    second: Ribs_66
+  - first:
+      213: -5176548174740189863
+    second: Ribs_67
+  - first:
+      213: -1673098475276043846
+    second: Ribs_68
+  - first:
+      213: 2912850406405499042
+    second: Ribs_69
+  - first:
+      213: 7298641495740245982
+    second: Ribs_70
+  - first:
+      213: -8921621562820374838
+    second: Ribs_71
+  - first:
+      213: -4035901385858037413
+    second: Ribs_72
+  - first:
+      213: -5461591545745703316
+    second: Ribs_73
+  - first:
+      213: -6496228832824891521
+    second: Ribs_74
+  - first:
+      213: 1668449569924391290
+    second: Ribs_75
+  - first:
+      213: -5709628579066447331
+    second: Ribs_76
+  - first:
+      213: 4971628785758600120
+    second: Ribs_77
+  - first:
+      213: -3753584487189775330
+    second: Ribs_78
+  - first:
+      213: -6655395136589358292
+    second: Ribs_79
+  - first:
+      213: 7584668504217688200
+    second: Ribs_80
+  - first:
+      213: -5752021418932963564
+    second: Ribs_81
+  - first:
+      213: -393862816425738336
+    second: Ribs_82
+  - first:
+      213: -2540042861251401440
+    second: Ribs_83
+  - first:
+      213: -5942653683045863593
+    second: Ribs_84
+  - first:
+      213: -9017655133476051565
+    second: Ribs_85
+  - first:
+      213: -5333187558143543392
+    second: Ribs_86
+  - first:
+      213: 8990605100637013054
+    second: Ribs_87
+  - first:
+      213: -826155957184462673
+    second: Ribs_88
+  - first:
+      213: 5909064746781616388
+    second: Ribs_89
+  - first:
+      213: 5104775576023783541
+    second: Ribs_90
+  - first:
+      213: -3292763246163848103
+    second: Ribs_91
+  - first:
+      213: 6491907210544843423
+    second: Ribs_92
+  - first:
+      213: 1195634153038752548
+    second: Ribs_93
+  - first:
+      213: -2168346755454963016
+    second: Ribs_94
+  - first:
+      213: 2846602653732683832
+    second: Ribs_95
+  - first:
+      213: -4949815590806373120
+    second: Ribs_96
+  - first:
+      213: -6120798388515879538
+    second: Ribs_97
+  - first:
+      213: -4861157136936612108
+    second: Ribs_98
+  - first:
+      213: 2143311522930112116
+    second: Ribs_99
+  - first:
+      213: -56561499867477770
+    second: Ribs_100
+  - first:
+      213: 8979874273322928330
+    second: Ribs_101
+  - first:
+      213: 2734774648441724471
+    second: Ribs_102
+  - first:
+      213: -6609394311710563299
+    second: Ribs_103
+  - first:
+      213: 5359081109915004267
+    second: Ribs_104
+  - first:
+      213: -7875940667467157765
+    second: Ribs_105
+  - first:
+      213: -694174299785318497
+    second: Ribs_106
+  - first:
+      213: 2674951143541417165
+    second: Ribs_107
+  - first:
+      213: -2534103595390387261
+    second: Ribs_108
+  - first:
+      213: -7234902355670907819
+    second: Ribs_109
+  - first:
+      213: 3250362192466456459
+    second: Ribs_110
+  - first:
+      213: -7061564064900982725
+    second: Ribs_111
+  - first:
+      213: -1825127114150799204
+    second: Ribs_112
+  - first:
+      213: -5713309277647558196
+    second: Ribs_113
+  - first:
+      213: 6521455161863778879
+    second: Ribs_114
+  - first:
+      213: -598590801138921641
+    second: Ribs_115
+  - first:
+      213: 2890360385378880427
+    second: Ribs_116
+  - first:
+      213: -7675446450260859211
+    second: Ribs_117
+  - first:
+      213: 8777856279893501775
+    second: Ribs_118
+  - first:
+      213: 1705738518165101341
+    second: Ribs_119
+  - first:
+      213: -352709178834072533
+    second: Ribs_120
+  - first:
+      213: -3066998524037732752
+    second: Ribs_121
+  - first:
+      213: 8821827570490678192
+    second: Ribs_122
+  - first:
+      213: -4399506820961379048
+    second: Ribs_123
+  - first:
+      213: 8048045316323294998
+    second: Ribs_124
+  - first:
+      213: -3797721136423469797
+    second: Ribs_125
+  - first:
+      213: 7021598593507511198
+    second: Ribs_126
+  - first:
+      213: -4320698208977613374
+    second: Ribs_127
+  - first:
+      213: 1293359486814215000
+    second: Ribs_128
+  - first:
+      213: -4713430045312469805
+    second: Ribs_129
+  - first:
+      213: 836445597044403547
+    second: Ribs_130
+  - first:
+      213: 1505930221817308720
+    second: Ribs_131
+  - first:
+      213: 8692446456197578941
+    second: Ribs_132
+  - first:
+      213: 5162156323727006360
+    second: Ribs_133
+  - first:
+      213: 2318278605572609837
+    second: Ribs_134
+  - first:
+      213: -6836672137956148764
+    second: Ribs_135
+  - first:
+      213: -1564743293982541582
+    second: Ribs_136
+  - first:
+      213: -4929686094937355456
+    second: Ribs_137
+  - first:
+      213: 4562050977332628418
+    second: Ribs_138
+  - first:
+      213: -4262015959301621046
+    second: Ribs_139
+  - first:
+      213: -4729857801566094752
+    second: Ribs_140
+  - first:
+      213: -2487062096276287553
+    second: Ribs_141
+  - first:
+      213: 4919412577000461543
+    second: Ribs_142
+  - first:
+      213: -8819321633450805095
+    second: Ribs_143
+  - first:
+      213: 4915425810140940320
+    second: Ribs_144
+  - first:
+      213: -8185518065149240797
+    second: Ribs_145
+  - first:
+      213: -5557833933326404683
+    second: Ribs_146
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ribs_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1229
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6457378d9c65af780800000000000000
+      internalID: -8648504709491755706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1229
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223ee8ca255d839b0800000000000000
+      internalID: -5100092026938006750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1229
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cd13d2e74163f70800000000000000
+      internalID: 9166536623715900443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1229
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99602907a00380a20800000000000000
+      internalID: 3028723570803082905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1229
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da5772aba002e9c0800000000000000
+      internalID: -3899553590184289580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1229
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737253de566ee6e70800000000000000
+      internalID: 9110472421662861111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1229
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39781eed1c677d80800000000000000
+      internalID: -8253008916328711873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1163
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ff23f47a0ca8ee0800000000000000
+      internalID: -1257981321075818690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1163
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34667e05293caed40800000000000000
+      internalID: 5614514918660728387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1163
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bacf407db57d2910800000000000000
+      internalID: 1814235681393724084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1163
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e456a6475b0eac0800000000000000
+      internalID: -3827860171659063716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1163
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99765b3bee264900800000000000000
+      internalID: 668273182558812573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1163
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d06c32f1581fd780800000000000000
+      internalID: -8656173218547343151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1163
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29347bb5a3316400800000000000000
+      internalID: 315590235800221994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1099
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fcc97189b178d00800000000000000
+      internalID: 974778184394133351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1099
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692a5c1de1b595ee0800000000000000
+      internalID: -1271885231828917610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1106
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d17242e1f37a61a0800000000000000
+      internalID: -6815507603351506479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1099
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373f9d485779f14b0800000000000000
+      internalID: -5467484891608648845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1099
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427b9b67d2b1c8730800000000000000
+      internalID: 4002604050904889124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1099
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7c336cf38f09fc0800000000000000
+      internalID: -3490016758420224019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_20
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1099
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0760621e34edb6940800000000000000
+      internalID: 5290566570398320240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1099
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911888df140ddcbe0800000000000000
+      internalID: -1455278122725768935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 973
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7160b0df65448e240800000000000000
+      internalID: 4821178541503350295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 973
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776c8fb24c7657540800000000000000
+      internalID: 5005020653141149303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 973
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7124d91cdba0980800000000000000
+      internalID: -8571830301481625601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_25
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 973
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d00e9f425b58c020800000000000000
+      internalID: 2362238413637026007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 973
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ada7ad24a6368260800000000000000
+      internalID: 7099421941364665765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 980
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b1cc77f92977b30800000000000000
+      internalID: 4285054784073636691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 973
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd32b72d97204b80800000000000000
+      internalID: -8412680547998745128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 973
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c7e6aa01c8e9300800000000000000
+      internalID: 260799831640800392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_30
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 973
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9db179ccacdef00800000000000000
+      internalID: 1147796460106668504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 907
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529fe80c5441a9940800000000000000
+      internalID: 5303573800998074661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 907
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15f76d89c3c92630800000000000000
+      internalID: 3902865822521488666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_33
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 917
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74281293eeab93080800000000000000
+      internalID: -9207122430858788281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_34
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 919
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e127b2b126d9d85d0800000000000000
+      internalID: -3058615527226510818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_35
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 916
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4811a50c2bc5a5d0800000000000000
+      internalID: -3051809782540199860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_36
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 915
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7504a4391a5693740800000000000000
+      internalID: 5132244995000647767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_37
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 916
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40119d92ed09f1840800000000000000
+      internalID: 5197031778868072708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_38
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 919
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53af09e5d80eacba0800000000000000
+      internalID: -6067790650146751947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 908
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c680c6001f99d8fd0800000000000000
+      internalID: -2338043371162171284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_40
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 908
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be95807c421c1ef60800000000000000
+      internalID: 8061937171672095211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_41
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 908
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c086116cfd37630800000000000000
+      internalID: 3923725742158384250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_42
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 908
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a2510a68043f4f0800000000000000
+      internalID: -796221762158908863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_43
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 908
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a933ef0d22e981010800000000000000
+      internalID: 1159850776420299674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_44
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 908
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e35d61de2142360800000000000000
+      internalID: 7143855718416072214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_45
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 843
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71e23cb016a82d00800000000000000
+      internalID: 948190312368628091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 843
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398404d374da018f0800000000000000
+      internalID: -571766631194146669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_47
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 843
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cc88b21fc026940800000000000000
+      internalID: 5287803142443420831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_48
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 843
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acebb3eb6c3e11a0800000000000000
+      internalID: -6836960750221923159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_49
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 843
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd07fa93ac9bef30800000000000000
+      internalID: 4605947270409948664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 843
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1598e93d9837af450800000000000000
+      internalID: 6123333679161706833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_51
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 843
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f7d7d74639c7ef0800000000000000
+      internalID: -109050231152345231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_52
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 843
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d407554bbce7620800000000000000
+      internalID: 2773878395894779170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 717
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f28d1beaaa8a7ae0800000000000000
+      internalID: -1550774654982061323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 719
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5c2d21a2bdb1bf0800000000000000
+      internalID: -352447172067539505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_55
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 717
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ff17b54a23e48c0800000000000000
+      internalID: -4013214536450310273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_56
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 717
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1873720b145231a00800000000000000
+      internalID: 725964928995243905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_57
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 717
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5e1e2cdecef35f0800000000000000
+      internalID: -774640104963447349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_58
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 717
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4d3f8a2712abab0800000000000000
+      internalID: -4991640460642233169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_59
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 717
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c162305347a89ed0800000000000000
+      internalID: -2406990093279403584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_60
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 717
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb85da282a1fcbee0800000000000000
+      internalID: -1243853716781705028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_61
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 717
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3ef624ab783bbe0800000000000000
+      internalID: -1462676219916983366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_62
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 651
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8ee44eb644432f0800000000000000
+      internalID: -994094387559470907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_63
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 651
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d5c1fba4079c0a0800000000000000
+      internalID: -6860829090986042040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_64
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 651
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724266e4755714e60800000000000000
+      internalID: 7944760235496186919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_65
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 651
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea367bb006908120800000000000000
+      internalID: 2414094330159839981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_66
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 651
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9284ff93cbfc210e0800000000000000
+      internalID: -2300548052299069399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_67
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 651
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d0ae19cd43928b0800000000000000
+      internalID: -5176548174740189863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_68
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 651
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab97cea1dc5f7c8e0800000000000000
+      internalID: -1673098475276043846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_69
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 651
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8e6adf2068c6820800000000000000
+      internalID: 2912850406405499042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_70
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 651
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7e58045cbf94560800000000000000
+      internalID: 7298641495740245982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_71
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 587
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace40a71578003480800000000000000
+      internalID: -8921621562820374838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_72
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 586
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59cc6b92199df7c0800000000000000
+      internalID: -4035901385858037413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_73
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 587
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6efc870d678434b0800000000000000
+      internalID: -5461591545745703316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 590
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7762d78b42c8d5a0800000000000000
+      internalID: -6496228832824891521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_75
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 590
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a712ff44b06872710800000000000000
+      internalID: 1668449569924391290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_76
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 588
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a7359ee0353c0b0800000000000000
+      internalID: -5709628579066447331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_77
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 590
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb7f323a06cef440800000000000000
+      internalID: 4971628785758600120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_78
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 587
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cf2a6dbc698ebc0800000000000000
+      internalID: -3753584487189775330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_79
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 587
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b9ab3926943a3a0800000000000000
+      internalID: -6655395136589358292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_80
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 461
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8881dfcb1d7224960800000000000000
+      internalID: 7584668504217688200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_81
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 459
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417ff08bef6bc20b0800000000000000
+      internalID: -5752021418932963564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_82
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 461
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af75b0fad7b88af0800000000000000
+      internalID: -393862816425738336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 461
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029e7d4b974ffbcd0800000000000000
+      internalID: -2540042861251401440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_84
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 461
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f62e6f5f3778da0800000000000000
+      internalID: -5942653683045863593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_85
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 461
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395ae260f6adad280800000000000000
+      internalID: -9017655133476051565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_86
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 395
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7325c1c26bcf5b0800000000000000
+      internalID: -5333187558143543392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_87
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 395
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34c84b64bb05cc70800000000000000
+      internalID: 8990605100637013054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_88
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 402
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa082fab887e884f0800000000000000
+      internalID: -826155957184462673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_89
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 394
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409a3b26417310250800000000000000
+      internalID: 5909064746781616388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_90
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 395
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578dcf2175ec7d640800000000000000
+      internalID: 5104775576023783541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_91
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 395
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95411fef541cd42d0800000000000000
+      internalID: -3292763246163848103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 394
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a825f5633e71a50800000000000000
+      internalID: 6491907210544843423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_93
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 331
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b233d6deeb79010800000000000000
+      internalID: 1195634153038752548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_94
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 329
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b27c334d1c78e1e0800000000000000
+      internalID: -2168346755454963016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_95
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 331
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830cb68180a218720800000000000000
+      internalID: 2846602653732683832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_96
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 331
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dbb4602f8be4bb0800000000000000
+      internalID: -4949815590806373120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 331
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e854ab68b4e8e0ba0800000000000000
+      internalID: -6120798388515879538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_98
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 331
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fec987e653b98cb0800000000000000
+      internalID: -4861157136936612108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_99
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476304f69729ebd10800000000000000
+      internalID: 2143311522930112116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_100
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f88f649d9d073ff0800000000000000
+      internalID: -56561499867477770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_101
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8051df21cee9c70800000000000000
+      internalID: 8979874273322928330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_102
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73edc15ad0fd3f520800000000000000
+      internalID: 2734774648441724471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_103
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14210e34e6b644a0800000000000000
+      internalID: -6609394311710563299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_104
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d6df630e74f5a40800000000000000
+      internalID: 5359081109915004267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_105
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe219301b903b290800000000000000
+      internalID: -7875940667467157765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_106
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f2719f62ccd56f0800000000000000
+      internalID: -694174299785318497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_107
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4af4e74e55f1520800000000000000
+      internalID: 2674951143541417165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_108
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb37bcc43e05dcd0800000000000000
+      internalID: -2534103595390387261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_109
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5544991c3a6789b90800000000000000
+      internalID: -7234902355670907819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_110
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fa251613b9b1d20800000000000000
+      internalID: 3250362192466456459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_111
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38d9e095e8400e90800000000000000
+      internalID: -7061564064900982725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_112
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 139
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c989b134f88dba6e0800000000000000
+      internalID: -1825127114150799204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_113
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 139
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9afdd7b7f36b0b0800000000000000
+      internalID: -5713309277647558196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_114
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 139
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f323785eaecd08a50800000000000000
+      internalID: 6521455161863778879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_115
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 139
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f4c4c76d061b7f0800000000000000
+      internalID: -598590801138921641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_116
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 139
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab8e5be47f9c1820800000000000000
+      internalID: 2890360385378880427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_117
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b62ba7ae165b7590800000000000000
+      internalID: -7675446450260859211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_118
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 139
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47eb7c87c531d970800000000000000
+      internalID: 8777856279893501775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_119
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b9ee615200ca710800000000000000
+      internalID: 1705738518165101341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_120
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 139
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c439ededcea1bf0800000000000000
+      internalID: -352709178834072533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_121
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 139
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07665109715df65d0800000000000000
+      internalID: -3066998524037732752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_122
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 139
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb18d07f6d6d6a70800000000000000
+      internalID: 8821827570490678192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_123
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 139
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d50bd1bdfc1f2c0800000000000000
+      internalID: -4399506820961379048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_124
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 149
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f32b7239660bf60800000000000000
+      internalID: 8048045316323294998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_125
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 139
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d7c736fb8cb4bc0800000000000000
+      internalID: -3797721136423469797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_126
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 139
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bc56108bab17160800000000000000
+      internalID: 7021598593507511198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_127
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 139
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd0938fedbc904c0800000000000000
+      internalID: -4320698208977613374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_128
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 75
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b517ac99fe2f110800000000000000
+      internalID: 1293359486814215000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_129
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 75
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d43f7bb858869eb0800000000000000
+      internalID: -4713430045312469805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_130
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 75
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d65cdb6d6ab9b00800000000000000
+      internalID: 836445597044403547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_131
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 75
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03622f7de8326e410800000000000000
+      internalID: 1505930221817308720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_132
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 75
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db082c25ff5c1a870800000000000000
+      internalID: 8692446456197578941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_133
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 75
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ad8ce73d9a3a740800000000000000
+      internalID: 5162156323727006360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_134
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 75
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d271b87eb1e2c2020800000000000000
+      internalID: 2318278605572609837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_135
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 75
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9305ba9e24f11a0800000000000000
+      internalID: -6836672137956148764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_136
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 75
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8fe75b34ae84ae0800000000000000
+      internalID: -1564743293982541582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_137
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 75
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b83118d9c369bb0800000000000000
+      internalID: -4929686094937355456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_138
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 75
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb822f6139af4f30800000000000000
+      internalID: 4562050977332628418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_139
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 84
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaf7cee0174ad4c0800000000000000
+      internalID: -4262015959301621046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_140
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 75
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06afa8ba36b2c5eb0800000000000000
+      internalID: -4729857801566094752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_141
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 75
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf0d11533e2c7dd0800000000000000
+      internalID: -2487062096276287553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_142
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 11
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e493b3bca3454440800000000000000
+      internalID: 4919412577000461543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_143
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 10
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9983f3e73b97b9580800000000000000
+      internalID: -8819321633450805095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_144
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 8
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028cc353bb9173440800000000000000
+      internalID: 4915425810140940320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_145
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 7
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a9c3040b2376e80800000000000000
+      internalID: -8185518065149240797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribs_146
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 8
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3b77bfb7b9ed2b0800000000000000
+      internalID: -5557833933326404683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

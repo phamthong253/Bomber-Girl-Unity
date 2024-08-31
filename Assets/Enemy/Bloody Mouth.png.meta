@@ -1,0 +1,1290 @@
+fileFormatVersion: 2
+guid: dd789efd55cd77e46874b73a1b7326c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -94166773087649610
+    second: Bloody Mouth_0
+  - first:
+      213: -1268615753966283928
+    second: Bloody Mouth_1
+  - first:
+      213: 2154289462703958919
+    second: Bloody Mouth_2
+  - first:
+      213: -1257081811530668170
+    second: Bloody Mouth_3
+  - first:
+      213: -9205779547235763222
+    second: Bloody Mouth_4
+  - first:
+      213: 478375403312260377
+    second: Bloody Mouth_5
+  - first:
+      213: -6218000221622919276
+    second: Bloody Mouth_6
+  - first:
+      213: -1051881137633372215
+    second: Bloody Mouth_7
+  - first:
+      213: -7380983795388706495
+    second: Bloody Mouth_8
+  - first:
+      213: 5189851605792818503
+    second: Bloody Mouth_9
+  - first:
+      213: -1845063019550535462
+    second: Bloody Mouth_10
+  - first:
+      213: 707400383704343475
+    second: Bloody Mouth_11
+  - first:
+      213: 8328097085983313449
+    second: Bloody Mouth_12
+  - first:
+      213: 3173438458125085818
+    second: Bloody Mouth_13
+  - first:
+      213: -6766751117592577265
+    second: Bloody Mouth_14
+  - first:
+      213: 4876879129046548218
+    second: Bloody Mouth_15
+  - first:
+      213: -975963709399062219
+    second: Bloody Mouth_16
+  - first:
+      213: 7098373447810829397
+    second: Bloody Mouth_17
+  - first:
+      213: 7772844817266351854
+    second: Bloody Mouth_18
+  - first:
+      213: -4523028895760402932
+    second: Bloody Mouth_19
+  - first:
+      213: -2738939705968837086
+    second: Bloody Mouth_20
+  - first:
+      213: 7811130971890711730
+    second: Bloody Mouth_21
+  - first:
+      213: 4019694383849540225
+    second: Bloody Mouth_22
+  - first:
+      213: 1610958944986691553
+    second: Bloody Mouth_23
+  - first:
+      213: 7065954555605251000
+    second: Bloody Mouth_24
+  - first:
+      213: -1962741588287198270
+    second: Bloody Mouth_25
+  - first:
+      213: -8897830282353710779
+    second: Bloody Mouth_26
+  - first:
+      213: -455215504346077458
+    second: Bloody Mouth_27
+  - first:
+      213: 8742801070331127437
+    second: Bloody Mouth_28
+  - first:
+      213: 319746131710815703
+    second: Bloody Mouth_29
+  - first:
+      213: 7777324170233578710
+    second: Bloody Mouth_30
+  - first:
+      213: -3850021087779430502
+    second: Bloody Mouth_31
+  - first:
+      213: -570760285549050675
+    second: Bloody Mouth_32
+  - first:
+      213: -7881739298062176698
+    second: Bloody Mouth_33
+  - first:
+      213: 7936931390354676894
+    second: Bloody Mouth_34
+  - first:
+      213: 9012863642491722413
+    second: Bloody Mouth_35
+  - first:
+      213: 8341253265226944266
+    second: Bloody Mouth_36
+  - first:
+      213: 7409334818001415688
+    second: Bloody Mouth_37
+  - first:
+      213: -5752730034292517719
+    second: Bloody Mouth_38
+  - first:
+      213: 5714040315569312998
+    second: Bloody Mouth_39
+  - first:
+      213: -7414793510101866886
+    second: Bloody Mouth_40
+  - first:
+      213: 8857256960049012416
+    second: Bloody Mouth_41
+  - first:
+      213: 1439626322656026274
+    second: Bloody Mouth_42
+  - first:
+      213: 3351070039320808602
+    second: Bloody Mouth_43
+  - first:
+      213: -3641354657265606425
+    second: Bloody Mouth_44
+  - first:
+      213: 80660350635727833
+    second: Bloody Mouth_45
+  - first:
+      213: -7164295208407962414
+    second: Bloody Mouth_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bloody Mouth_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1115
+        width: 16
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0477c91d371bef0800000000000000
+      internalID: -94166773087649610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1177
+        width: 12
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863106471b8f46ee0800000000000000
+      internalID: -1268615753966283928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1115
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b26d73ad295ed10800000000000000
+      internalID: 2154289462703958919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1177
+        width: 12
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6772c12b0c2fd8ee0800000000000000
+      internalID: -1257081811530668170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1115
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebb47ea6408e3080800000000000000
+      internalID: -9205779547235763222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1177
+        width: 12
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91526bf05e783a600800000000000000
+      internalID: 478375403312260377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1115
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f9dd82eb935b9a0800000000000000
+      internalID: -6218000221622919276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 921
+        width: 12
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7dd6dada7f661f0800000000000000
+      internalID: -1051881137633372215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 859
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14111fe185a719990800000000000000
+      internalID: -7380983795388706495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 921
+        width: 12
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7458548d98e060840800000000000000
+      internalID: 5189851605792818503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 859
+        width: 257
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad01b7395f40566e0800000000000000
+      internalID: -1845063019550535462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 921
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b32ca8a6e031d900800000000000000
+      internalID: 707400383704343475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 920
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e4001fc28539370800000000000000
+      internalID: 8328097085983313449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 920
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ceb1dc6715a0c20800000000000000
+      internalID: 3173438458125085818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 859
+        width: 67
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bba68d5bba712a0800000000000000
+      internalID: -6766751117592577265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 602
+        width: 80
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afef553aab72ea340800000000000000
+      internalID: 4876879129046548218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 665
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539a89b5d2ea472f0800000000000000
+      internalID: -975963709399062219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 665
+        width: 12
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c44dfba0d728260800000000000000
+      internalID: 7098373447810829397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 602
+        width: 197
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee9563dd21bedb60800000000000000
+      internalID: 7772844817266351854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 664
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06bf5fee29fa31c0800000000000000
+      internalID: -4523028895760402932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_20
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 665
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eb38459d45df9d0800000000000000
+      internalID: -2738939705968837086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 665
+        width: 12
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcf899db36b66c60800000000000000
+      internalID: 7811130971890711730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_22
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 603
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a0cfeaeb2d8c730800000000000000
+      internalID: 4019694383849540225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_23
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 664
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e77baf00a64b5610800000000000000
+      internalID: 1610958944986691553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 345
+        width: 82
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b377e53b305f0260800000000000000
+      internalID: 7065954555605251000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 409
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb614cace0f2c4e0800000000000000
+      internalID: -1962741588287198270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 409
+        width: 145
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549e79c308e848480800000000000000
+      internalID: -8897830282353710779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 407
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6a33f19efbea9f0800000000000000
+      internalID: -455215504346077458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 347
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86edfa804ba45970800000000000000
+      internalID: 8742801070331127437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 347
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddade6a967ff6400800000000000000
+      internalID: 319746131710815703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 91
+        width: 14
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d405d5702b9eeb60800000000000000
+      internalID: 7777324170233578710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 153
+        width: 10
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fd42d083af19ac0800000000000000
+      internalID: -3850021087779430502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 91
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4c2f75b804418f0800000000000000
+      internalID: -570760285549050675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 153
+        width: 10
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e64ce1edf6e9290800000000000000
+      internalID: -7881739298062176698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 91
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cdcb04c05a52e60800000000000000
+      internalID: 7936931390354676894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_35
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 154
+        width: 9
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa90cb0bbf141d70800000000000000
+      internalID: 9012863642491722413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_36
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 91
+        width: 68
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f4b6f96a512c370800000000000000
+      internalID: 8341253265226944266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 154
+        width: 10
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e68e8b2ce33d660800000000000000
+      internalID: 7409334818001415688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_38
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 91
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4164953823a20b0800000000000000
+      internalID: -5752730034292517719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_39
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 154
+        width: 10
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e415c984695c4f40800000000000000
+      internalID: 5714040315569312998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_40
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 91
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76a18b769c591990800000000000000
+      internalID: -7414793510101866886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_41
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 154
+        width: 10
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ced314074c4bea70800000000000000
+      internalID: 8857256960049012416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_42
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 91
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aed63353849af310800000000000000
+      internalID: 1439626322656026274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_43
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ccb2f2274618e20800000000000000
+      internalID: 3351070039320808602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_44
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e028706b3f477dc0800000000000000
+      internalID: -3641354657265606425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_45
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbd91b59209e1100800000000000000
+      internalID: 80660350635727833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Mouth_46
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 14
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc6fcc477f439c90800000000000000
+      internalID: -7164295208407962414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

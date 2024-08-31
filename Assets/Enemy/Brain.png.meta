@@ -1,0 +1,4565 @@
+fileFormatVersion: 2
+guid: a890585470a03b74080b8f2870000585
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 540803829919948875
+    second: Brain_0
+  - first:
+      213: -6597746790429190138
+    second: Brain_1
+  - first:
+      213: -607332128543417956
+    second: Brain_2
+  - first:
+      213: 7085326713702782872
+    second: Brain_3
+  - first:
+      213: 5877450452412718023
+    second: Brain_4
+  - first:
+      213: -4079171043063057818
+    second: Brain_5
+  - first:
+      213: 7596353924581696356
+    second: Brain_6
+  - first:
+      213: -3869402179791247577
+    second: Brain_7
+  - first:
+      213: -4474874429364244199
+    second: Brain_8
+  - first:
+      213: 2340690379708822903
+    second: Brain_9
+  - first:
+      213: -7397609384283323485
+    second: Brain_10
+  - first:
+      213: 3870116596684674191
+    second: Brain_11
+  - first:
+      213: -2628514699531864406
+    second: Brain_12
+  - first:
+      213: -2321847869031670843
+    second: Brain_13
+  - first:
+      213: -992607571153882634
+    second: Brain_14
+  - first:
+      213: 5194220985370291961
+    second: Brain_15
+  - first:
+      213: 8362607640002683065
+    second: Brain_16
+  - first:
+      213: -4413347091416746941
+    second: Brain_17
+  - first:
+      213: -3187739227759733183
+    second: Brain_18
+  - first:
+      213: 1932934162706032502
+    second: Brain_19
+  - first:
+      213: -776071061778568665
+    second: Brain_20
+  - first:
+      213: 7300624386364935175
+    second: Brain_21
+  - first:
+      213: 32573440886310857
+    second: Brain_22
+  - first:
+      213: -5464202271655047226
+    second: Brain_23
+  - first:
+      213: -3496142144152816562
+    second: Brain_24
+  - first:
+      213: 592499055354558148
+    second: Brain_25
+  - first:
+      213: -6584490626623322087
+    second: Brain_26
+  - first:
+      213: -6994050688350916189
+    second: Brain_27
+  - first:
+      213: 2224906412282401709
+    second: Brain_28
+  - first:
+      213: -8012006682577646337
+    second: Brain_29
+  - first:
+      213: 4269018736991603288
+    second: Brain_30
+  - first:
+      213: -7911721287634333987
+    second: Brain_31
+  - first:
+      213: -3395431565655470516
+    second: Brain_32
+  - first:
+      213: 7203041304879400847
+    second: Brain_33
+  - first:
+      213: -1417287376947198501
+    second: Brain_34
+  - first:
+      213: -8980822301798974322
+    second: Brain_35
+  - first:
+      213: -7131345803920798502
+    second: Brain_36
+  - first:
+      213: 3842070339327137882
+    second: Brain_37
+  - first:
+      213: 995618724366340618
+    second: Brain_38
+  - first:
+      213: -1254591996151011664
+    second: Brain_39
+  - first:
+      213: 2927648327297304863
+    second: Brain_40
+  - first:
+      213: -3897361778586922396
+    second: Brain_41
+  - first:
+      213: 3809355893240617022
+    second: Brain_42
+  - first:
+      213: 7927985348013784037
+    second: Brain_43
+  - first:
+      213: 4430954378164485886
+    second: Brain_44
+  - first:
+      213: -1066523408743062022
+    second: Brain_45
+  - first:
+      213: -2882689907413361312
+    second: Brain_46
+  - first:
+      213: -4630471907625335763
+    second: Brain_47
+  - first:
+      213: -6652886600938119145
+    second: Brain_48
+  - first:
+      213: 3108849349331626376
+    second: Brain_49
+  - first:
+      213: 1764618585335312561
+    second: Brain_50
+  - first:
+      213: -3156662485565011843
+    second: Brain_51
+  - first:
+      213: 4835931482714526646
+    second: Brain_52
+  - first:
+      213: 966715318476753609
+    second: Brain_53
+  - first:
+      213: -2547416198460814341
+    second: Brain_54
+  - first:
+      213: -5009976374424617503
+    second: Brain_55
+  - first:
+      213: 7538334615061704842
+    second: Brain_56
+  - first:
+      213: -7460232790947909280
+    second: Brain_57
+  - first:
+      213: -4450180933382533605
+    second: Brain_58
+  - first:
+      213: -7052764736327118880
+    second: Brain_59
+  - first:
+      213: 9208998530220967809
+    second: Brain_60
+  - first:
+      213: -6853824138291411291
+    second: Brain_61
+  - first:
+      213: 8768876931101539038
+    second: Brain_62
+  - first:
+      213: -4277072315364583816
+    second: Brain_63
+  - first:
+      213: -3802006833365313210
+    second: Brain_64
+  - first:
+      213: -9203507920195839435
+    second: Brain_65
+  - first:
+      213: -866742647951671243
+    second: Brain_66
+  - first:
+      213: -4622689761281473117
+    second: Brain_67
+  - first:
+      213: 3849975788669248986
+    second: Brain_68
+  - first:
+      213: -4269851419206117265
+    second: Brain_69
+  - first:
+      213: 3576107218900029846
+    second: Brain_70
+  - first:
+      213: 1952419219717346377
+    second: Brain_71
+  - first:
+      213: -544081488652754611
+    second: Brain_72
+  - first:
+      213: -6476858233699666699
+    second: Brain_73
+  - first:
+      213: 7600371647784533745
+    second: Brain_74
+  - first:
+      213: -7291863435350854254
+    second: Brain_75
+  - first:
+      213: -6642978833878748995
+    second: Brain_76
+  - first:
+      213: 4121037544802018979
+    second: Brain_77
+  - first:
+      213: -4757564652557996998
+    second: Brain_78
+  - first:
+      213: -6518244173755286098
+    second: Brain_79
+  - first:
+      213: 3365000058773537622
+    second: Brain_80
+  - first:
+      213: 8345592365619394087
+    second: Brain_81
+  - first:
+      213: 5083238357375413459
+    second: Brain_82
+  - first:
+      213: -6847557402082032204
+    second: Brain_83
+  - first:
+      213: -4165189556703282641
+    second: Brain_84
+  - first:
+      213: 7704492795166270780
+    second: Brain_85
+  - first:
+      213: -5050828962158929073
+    second: Brain_86
+  - first:
+      213: 3325154757943407988
+    second: Brain_87
+  - first:
+      213: 5696289345135042889
+    second: Brain_88
+  - first:
+      213: -9012111780129714691
+    second: Brain_89
+  - first:
+      213: 5969316179787135853
+    second: Brain_90
+  - first:
+      213: -6826873154107647252
+    second: Brain_91
+  - first:
+      213: -6663163120968301522
+    second: Brain_92
+  - first:
+      213: 9116399013781478807
+    second: Brain_93
+  - first:
+      213: 2899626151450904002
+    second: Brain_94
+  - first:
+      213: -6067210720458441578
+    second: Brain_95
+  - first:
+      213: -6525130352307890648
+    second: Brain_96
+  - first:
+      213: -6569575981169133755
+    second: Brain_97
+  - first:
+      213: 597127134638058444
+    second: Brain_98
+  - first:
+      213: 1491670109031146618
+    second: Brain_99
+  - first:
+      213: 4175134464381060595
+    second: Brain_100
+  - first:
+      213: -7409162933052097813
+    second: Brain_101
+  - first:
+      213: -6115924444985791797
+    second: Brain_102
+  - first:
+      213: 8730205765946367677
+    second: Brain_103
+  - first:
+      213: -2425588861248669670
+    second: Brain_104
+  - first:
+      213: 8133428065431572370
+    second: Brain_105
+  - first:
+      213: -2200943067418264675
+    second: Brain_106
+  - first:
+      213: 2475248574858034349
+    second: Brain_107
+  - first:
+      213: -5102424198497014563
+    second: Brain_108
+  - first:
+      213: 947223720337974156
+    second: Brain_109
+  - first:
+      213: -2478400564772906394
+    second: Brain_110
+  - first:
+      213: -3016172075389182331
+    second: Brain_111
+  - first:
+      213: -3159159729580459653
+    second: Brain_112
+  - first:
+      213: 2976337389089378790
+    second: Brain_113
+  - first:
+      213: 4299714294641276585
+    second: Brain_114
+  - first:
+      213: -6655473452032536838
+    second: Brain_115
+  - first:
+      213: 2466811279924041793
+    second: Brain_116
+  - first:
+      213: -3633992296489816525
+    second: Brain_117
+  - first:
+      213: 2486751857693181108
+    second: Brain_118
+  - first:
+      213: -6127901242887078521
+    second: Brain_119
+  - first:
+      213: -2111837532953015807
+    second: Brain_120
+  - first:
+      213: 8323509048063044077
+    second: Brain_121
+  - first:
+      213: 22927431077425360
+    second: Brain_122
+  - first:
+      213: -1748006884832251097
+    second: Brain_123
+  - first:
+      213: -7262891111813995776
+    second: Brain_124
+  - first:
+      213: 2770090581487886734
+    second: Brain_125
+  - first:
+      213: 949264007946278370
+    second: Brain_126
+  - first:
+      213: -9145494040763503277
+    second: Brain_127
+  - first:
+      213: -1172835789533759322
+    second: Brain_128
+  - first:
+      213: -6056675634432902589
+    second: Brain_129
+  - first:
+      213: -7466703985852982666
+    second: Brain_130
+  - first:
+      213: 1089024710536193619
+    second: Brain_131
+  - first:
+      213: 4688611830420201209
+    second: Brain_132
+  - first:
+      213: -3640585000301292456
+    second: Brain_133
+  - first:
+      213: 8160615492344158648
+    second: Brain_134
+  - first:
+      213: -6485032986988252498
+    second: Brain_135
+  - first:
+      213: -4663980066702531289
+    second: Brain_136
+  - first:
+      213: 4045926438817180097
+    second: Brain_137
+  - first:
+      213: 5673730244210587688
+    second: Brain_138
+  - first:
+      213: 8666262929691131824
+    second: Brain_139
+  - first:
+      213: -6902404986834690450
+    second: Brain_140
+  - first:
+      213: -7580737523924566992
+    second: Brain_141
+  - first:
+      213: 4552280411029556204
+    second: Brain_142
+  - first:
+      213: -5713587003217713460
+    second: Brain_143
+  - first:
+      213: -389343234061295284
+    second: Brain_144
+  - first:
+      213: 128414653065818326
+    second: Brain_145
+  - first:
+      213: -2259511769433888712
+    second: Brain_146
+  - first:
+      213: 4545489429903653887
+    second: Brain_147
+  - first:
+      213: 1098858641929864034
+    second: Brain_148
+  - first:
+      213: -3218617069000531564
+    second: Brain_149
+  - first:
+      213: 592906558859353218
+    second: Brain_150
+  - first:
+      213: 7960475397832526564
+    second: Brain_151
+  - first:
+      213: -2102243155000083331
+    second: Brain_152
+  - first:
+      213: -7249808069474217985
+    second: Brain_153
+  - first:
+      213: -7393437061503833372
+    second: Brain_154
+  - first:
+      213: -5592677302515805359
+    second: Brain_155
+  - first:
+      213: -4862045406490430037
+    second: Brain_156
+  - first:
+      213: -8232031826974256347
+    second: Brain_157
+  - first:
+      213: 1691020801038449557
+    second: Brain_158
+  - first:
+      213: -2984668909367912269
+    second: Brain_159
+  - first:
+      213: -2217172272916396875
+    second: Brain_160
+  - first:
+      213: -4169762427047135820
+    second: Brain_161
+  - first:
+      213: -1414889229634954740
+    second: Brain_162
+  - first:
+      213: -6782828156340548371
+    second: Brain_163
+  - first:
+      213: 7841131151589629520
+    second: Brain_164
+  - first:
+      213: 180924353854990218
+    second: Brain_165
+  - first:
+      213: -8398230996786540155
+    second: Brain_166
+  - first:
+      213: -6862410648800287354
+    second: Brain_167
+  - first:
+      213: 729079140033257290
+    second: Brain_168
+  - first:
+      213: -6180885500922124499
+    second: Brain_169
+  - first:
+      213: -2047762691639805563
+    second: Brain_170
+  - first:
+      213: 381077780056670589
+    second: Brain_171
+  - first:
+      213: 4612116456860349616
+    second: Brain_172
+  - first:
+      213: 8947016353451298348
+    second: Brain_173
+  - first:
+      213: -667806288964473831
+    second: Brain_174
+  - first:
+      213: 2719074290484869861
+    second: Brain_175
+  - first:
+      213: -3282814658193628861
+    second: Brain_176
+  - first:
+      213: -1711169911049478247
+    second: Brain_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brain_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1315
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40ac8fc732518700800000000000000
+      internalID: 540803829919948875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1315
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6089e7e10481074a0800000000000000
+      internalID: -6597746790429190138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1315
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99dc7995a25297f0800000000000000
+      internalID: -607332128543417956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1315
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89717df3b13245260800000000000000
+      internalID: 7085326713702782872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1315
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbd401eb06e09150800000000000000
+      internalID: 5877450452412718023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1315
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662ba287c8fd367c0800000000000000
+      internalID: -4079171043063057818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1315
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46326dea5abab6960800000000000000
+      internalID: 7596353924581696356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1251
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727ab6ce73f1d4ac0800000000000000
+      internalID: -3869402179791247577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1251
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911f3475a6d06e1c0800000000000000
+      internalID: -4474874429364244199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1251
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775f7b3bf7dcb7020800000000000000
+      internalID: 2340690379708822903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1251
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a342be8579665990800000000000000
+      internalID: -7397609384283323485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1251
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84dbb83a8a65b530800000000000000
+      internalID: 3870116596684674191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1251
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6b287aec3a58bd0800000000000000
+      internalID: -2628514699531864406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_13
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1251
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb9edf2aa327cfd0800000000000000
+      internalID: -2321847869031670843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1188
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f172005cac8932f0800000000000000
+      internalID: -992607571153882634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1188
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe20ed4774951840800000000000000
+      internalID: 5194220985370291961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1188
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0e3527753fd0470800000000000000
+      internalID: 8362607640002683065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1188
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344f9990434a0c2c0800000000000000
+      internalID: -4413347091416746941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1188
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1469dcccf00e2c3d0800000000000000
+      internalID: -3187739227759733183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1188
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6776f4e316923da10800000000000000
+      internalID: 1932934162706032502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1188
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a6a3a2b77da35f0800000000000000
+      internalID: -776071061778568665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1123
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c06d3f237015560800000000000000
+      internalID: 7300624386364935175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1123
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c704253f59b37000800000000000000
+      internalID: 32573440886310857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1123
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf4e190cf04b24b0800000000000000
+      internalID: -5464202271655047226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1123
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44bf754e353b7fc0800000000000000
+      internalID: -3496142144152816562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_25
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1123
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6b92c60caf83800800000000000000
+      internalID: 592499055354558148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1123
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9184a3549a03f94a0800000000000000
+      internalID: -6584490626623322087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1123
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a174cb74f320fe90800000000000000
+      internalID: -6994050688350916189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1059
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3d49a089470ee10800000000000000
+      internalID: 2224906412282401709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1058
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc47e22f52afc090800000000000000
+      internalID: -8012006682577646337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1059
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a0fdd4ce99e3b30800000000000000
+      internalID: 4269018736991603288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1059
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddec8a0386be33290800000000000000
+      internalID: -7911721287634333987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1058
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e05f51bf001e0d0800000000000000
+      internalID: -3395431565655470516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_33
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1058
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f878dc747e756f360800000000000000
+      internalID: 7203041304879400847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1058
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5ca68c3a8c45ce0800000000000000
+      internalID: -1417287376947198501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_35
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1059
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cbd5ee2b5bd5380800000000000000
+      internalID: -8980822301798974322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 995
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc04da56ce580d90800000000000000
+      internalID: -7131345803920798502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 995
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5898a11e96c15530800000000000000
+      internalID: 3842070339327137882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 995
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02559d64f521dd00800000000000000
+      internalID: 995618724366340618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_39
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 995
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6ee530a3bc69ee0800000000000000
+      internalID: -1254591996151011664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_40
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 995
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1982df64a811a820800000000000000
+      internalID: 2927648327297304863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 995
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462542a8c1ac9e9c0800000000000000
+      internalID: -3897361778586922396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 995
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38d5a7800d8dd430800000000000000
+      internalID: 3809355893240617022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_43
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 995
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebfcd47bacd50e60800000000000000
+      internalID: 7927985348013784037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_44
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 932
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeb47ed789ed7d30800000000000000
+      internalID: 4430954378164485886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 932
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af52b354c92f231f0800000000000000
+      internalID: -1066523408743062022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 932
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dd5076dc0aef7d0800000000000000
+      internalID: -2882689907413361312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 932
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24019355524dbfb0800000000000000
+      internalID: -4630471907625335763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_48
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 931
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710a02c82e23ca3a0800000000000000
+      internalID: -6652886600938119145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_49
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 931
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889ad17030ad42b20800000000000000
+      internalID: 3108849349331626376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_50
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 931
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0b6f6014f2d7810800000000000000
+      internalID: 1764618585335312561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_51
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 932
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d788810b1384134d0800000000000000
+      internalID: -3156662485565011843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 867
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3d359cf0eac1340800000000000000
+      internalID: 4835931482714526646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 867
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca4cb4d5767a6d00800000000000000
+      internalID: 966715318476753609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 867
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbcaabd672c5acd0800000000000000
+      internalID: -2547416198460814341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_55
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 867
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed325d080df87ab0800000000000000
+      internalID: -5009976374424617503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 867
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80b8c0846b8d9860800000000000000
+      internalID: 7538334615061704842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_57
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 867
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06134d97dcde77890800000000000000
+      internalID: -7460232790947909280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 867
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e8487e408cd32c0800000000000000
+      internalID: -4450180933382533605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_59
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 867
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef02d6e6db8f1e90800000000000000
+      internalID: -7052764736327118880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 804
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1874ae23f5feccf70800000000000000
+      internalID: 9208998530220967809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 804
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a68424624352e0a0800000000000000
+      internalID: -6853824138291411291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 804
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edabc6dfb1f41b970800000000000000
+      internalID: 8768876931101539038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_63
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 803
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876590cd369c4a4c0800000000000000
+      internalID: -4277072315364583816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_64
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 804
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64917afcdee8c3bc0800000000000000
+      internalID: -3802006833365313210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_65
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 804
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a9b311f42964080800000000000000
+      internalID: -9203507920195839435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_66
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 804
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530c8256726b8f3f0800000000000000
+      internalID: -866742647951671243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_67
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 803
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a58bf77728e8dfb0800000000000000
+      internalID: -4622689761281473117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_68
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 804
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad52c7de49cdd6530800000000000000
+      internalID: 3849975788669248986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_69
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 739
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f689582c1c07eb4c0800000000000000
+      internalID: -4269851419206117265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_70
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 738
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6911f3d8192e0a130800000000000000
+      internalID: 3576107218900029846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_71
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 739
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944d5eb9fe2681b10800000000000000
+      internalID: 1952419219717346377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 739
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41acfbc4c80378f0800000000000000
+      internalID: -544081488652754611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_73
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 739
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f474c790c39d16a0800000000000000
+      internalID: -6476858233699666699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_74
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 738
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb523ceb1f97960800000000000000
+      internalID: 7600371647784533745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_75
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 739
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295b049e6d81eca90800000000000000
+      internalID: -7291863435350854254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_76
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 739
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0f73452f56fc3a0800000000000000
+      internalID: -6642978833878748995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_77
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 739
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6e8f310ddd03930800000000000000
+      internalID: 4121037544802018979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_78
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 676
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c6358b72cb9fdb0800000000000000
+      internalID: -4757564652557996998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_79
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 676
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead7e08857b8a85a0800000000000000
+      internalID: -6518244173755286098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_80
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 676
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6538d5499b1e2be20800000000000000
+      internalID: 3365000058773537622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_81
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 675
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726b4f82a0081d370800000000000000
+      internalID: 8345592365619394087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_82
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 676
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc60089a5a4b8640800000000000000
+      internalID: 5083238357375413459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_83
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 676
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5cdcd92d698f0a0800000000000000
+      internalID: -6847557402082032204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_84
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 676
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ab8829a264236c0800000000000000
+      internalID: -4165189556703282641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_85
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 675
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c352176806bdbea60800000000000000
+      internalID: 7704492795166270780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_86
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 676
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b1341c1d9d7e9b0800000000000000
+      internalID: -5050828962158929073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_87
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 611
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475ba6a82a2552e20800000000000000
+      internalID: 3325154757943407988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_88
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 610
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941ed9aaaf84d0f40800000000000000
+      internalID: 5696289345135042889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_89
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 611
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd414d851c8ee280800000000000000
+      internalID: -9012111780129714691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_90
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 611
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b3430507547d250800000000000000
+      internalID: 5969316179787135853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_91
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 611
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea53c269031241a0800000000000000
+      internalID: -6826873154107647252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_92
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 610
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e248336c170b783a0800000000000000
+      internalID: -6663163120968301522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_93
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 611
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d9a2f2a94f38e70800000000000000
+      internalID: 9116399013781478807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_94
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 611
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c50aa23f9a8d3820800000000000000
+      internalID: 2899626151450904002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_95
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 611
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cf1a5ceffeccba0800000000000000
+      internalID: -6067210720458441578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_96
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 547
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826919524841275a0800000000000000
+      internalID: -6525130352307890648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_97
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 546
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547b975c37d24d4a0800000000000000
+      internalID: -6569575981169133755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_98
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 546
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb29d917fb694800800000000000000
+      internalID: 597127134638058444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_99
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 547
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74aeda9f0a73b410800000000000000
+      internalID: 1491670109031146618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_100
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 547
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f58ceeacae01f930800000000000000
+      internalID: 4175134464381060595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_101
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 547
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea307c519d5d2990800000000000000
+      internalID: -7409162933052097813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_102
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 483
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca6e7fee1fdf1ba0800000000000000
+      internalID: -6115924444985791797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_103
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 481
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbedc47b3ebe72970800000000000000
+      internalID: 8730205765946367677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_104
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 483
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18f02238c3965ed0800000000000000
+      internalID: -2425588861248669670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_105
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 483
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fcd369bbdbfd070800000000000000
+      internalID: 8133428065431572370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_106
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 483
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bfca7f0fda471e0800000000000000
+      internalID: -2200943067418264675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_107
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 483
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac7433e679d95220800000000000000
+      internalID: 2475248574858034349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_108
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 420
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc6a3ba93c8039b0800000000000000
+      internalID: -5102424198497014563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_109
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 420
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83a19d74f6352d00800000000000000
+      internalID: 947223720337974156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_110
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 418
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a559541d3fa9dd0800000000000000
+      internalID: -2478400564772906394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_111
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 419
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e99f05a776426d0800000000000000
+      internalID: -3016172075389182331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_112
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 420
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7933a1c6f86824d0800000000000000
+      internalID: -3159159729580459653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_113
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 420
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1d26806131e4920800000000000000
+      internalID: 2976337389089378790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_114
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 355
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a633cfbe57abab30800000000000000
+      internalID: 4299714294641276585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_115
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 353
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afece87582203a3a0800000000000000
+      internalID: -6655473452032536838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_116
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 355
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1489cc31acfdb3220800000000000000
+      internalID: 2466811279924041793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 355
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ee7339247719dc0800000000000000
+      internalID: -3633992296489816525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_118
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 355
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b44852a3a7b28220800000000000000
+      internalID: 2486751857693181108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_119
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 355
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d7a0f594255faa0800000000000000
+      internalID: -6127901242887078521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_120
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a8ff8e3fe31b2e0800000000000000
+      internalID: -2111837532953015807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_121
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 290
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de92c8e116b038370800000000000000
+      internalID: 8323509048063044077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_122
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d07bf88064715000800000000000000
+      internalID: 22927431077425360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_123
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723f2a4eff4ddb7e0800000000000000
+      internalID: -1748006884832251097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_124
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0032cf5a307053b90800000000000000
+      internalID: -7262891111813995776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_125
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81ad3115b6517620800000000000000
+      internalID: 2770090581487886734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_126
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e593b7f5967c2d00800000000000000
+      internalID: 949264007946278370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_127
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35de6d4ff9da41180800000000000000
+      internalID: -9145494040763503277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_128
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8b9f8301049bfe0800000000000000
+      internalID: -1172835789533759322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_129
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34afcd1a99d52fba0800000000000000
+      internalID: -6056675634432902589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_130
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a5d300940f06890800000000000000
+      internalID: -7466703985852982666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_131
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356e12f443efc1f00800000000000000
+      internalID: 1089024710536193619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_132
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fed3e15e9b411140800000000000000
+      internalID: 4688611830420201209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_133
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 227
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8541d6a1b3b0a7dc0800000000000000
+      internalID: -3640585000301292456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_134
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 227
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b919b1bd84504170800000000000000
+      internalID: 8160615492344158648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_135
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 227
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2ffd58bd88006a0800000000000000
+      internalID: -6485032986988252498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_136
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 227
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72561b417d6364fb0800000000000000
+      internalID: -4663980066702531289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_137
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 227
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c92f0de8a4062830800000000000000
+      internalID: 4045926438817180097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_138
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 227
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828ff8da8932dbe40800000000000000
+      internalID: 5673730244210587688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_139
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 227
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf306ef730c44870800000000000000
+      internalID: 8666262929691131824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_140
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 227
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e55d72c3bb530a0800000000000000
+      internalID: -6902404986834690450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_141
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 227
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c700fe26fcbc690800000000000000
+      internalID: -7580737523924566992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_142
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 227
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebc2613ae2fc2f30800000000000000
+      internalID: 4552280411029556204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_143
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 227
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc66be774e245b0b0800000000000000
+      internalID: -5713587003217713460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_144
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 227
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4123163466c89af0800000000000000
+      internalID: -389343234061295284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_145
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 227
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d071f3527838c100800000000000000
+      internalID: 128414653065818326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_146
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 164
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8382411640a94a0e0800000000000000
+      internalID: -2259511769433888712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_147
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 164
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb33bfad82d41f30800000000000000
+      internalID: 4545489429903653887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_148
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 164
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2630992ec1eef3f00800000000000000
+      internalID: 1098858641929864034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_149
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 164
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491e63624dc2553d0800000000000000
+      internalID: -3218617069000531564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_150
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 164
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c9fc9bf5d6a3800800000000000000
+      internalID: 592906558859353218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_151
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 164
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea4b0ba23a497e60800000000000000
+      internalID: 7960475397832526564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_152
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 164
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c39ba1df453d2e0800000000000000
+      internalID: -2102243155000083331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_153
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 164
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff8a31d8f1836b90800000000000000
+      internalID: -7249808069474217985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_154
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 164
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea2bd72a2c356990800000000000000
+      internalID: -7393437061503833372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_155
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 164
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153d728ef91d262b0800000000000000
+      internalID: -5592677302515805359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_156
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 164
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba57158867b868cb0800000000000000
+      internalID: -4862045406490430037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_157
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 164
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5235d752ba2f1cd80800000000000000
+      internalID: -8232031826974256347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_158
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 164
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b71b98576b77710800000000000000
+      internalID: 1691020801038449557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_159
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b819fcb0735496d0800000000000000
+      internalID: -2984668909367912269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_160
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b409fa90950b31e0800000000000000
+      internalID: -2217172272916396875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_161
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5b51a3a270226c0800000000000000
+      internalID: -4169762427047135820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_162
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a1517fdbd4d5ce0800000000000000
+      internalID: -1414889229634954740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_163
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deccdc09abd8ed1a0800000000000000
+      internalID: -6782828156340548371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_164
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05edfbffc3b41dc60800000000000000
+      internalID: 7841131151589629520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_165
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a876eb2cdb5c28200800000000000000
+      internalID: 180924353854990218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_166
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5811dd6776d737b80800000000000000
+      internalID: -8398230996786540155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_167
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685a66f9fd1d3c0a0800000000000000
+      internalID: -6862410648800287354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_168
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f54d27d953e1a00800000000000000
+      internalID: 729079140033257290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_169
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27ac287265193aa0800000000000000
+      internalID: -6180885500922124499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_170
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589f2847ea2e493e0800000000000000
+      internalID: -2047762691639805563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_171
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d718210d83cd94500800000000000000
+      internalID: 381077780056670589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_172
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 36
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4f4e14b77810040800000000000000
+      internalID: 4612116456860349616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_173
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 35
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e431b58ff2a2c70800000000000000
+      internalID: 8947016353451298348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_174
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 26
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c2087e7b97bb6f0800000000000000
+      internalID: -667806288964473831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_175
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 21
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea7f3239a71cb520800000000000000
+      internalID: 2719074290484869861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_176
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3416ce226791172d0800000000000000
+      internalID: -3282814658193628861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain_177
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f1f853804b048e0800000000000000
+      internalID: -1711169911049478247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

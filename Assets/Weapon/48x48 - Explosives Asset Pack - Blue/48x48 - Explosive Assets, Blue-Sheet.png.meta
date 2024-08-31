@@ -1,0 +1,1615 @@
+fileFormatVersion: 2
+guid: ae66f03cc2a46c9439a415eea40abec8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8500179448071829187
+    second: 48x48 - Explosive Assets, Blue-Sheet_0
+  - first:
+      213: -5881429038874713407
+    second: 48x48 - Explosive Assets, Blue-Sheet_1
+  - first:
+      213: 9109734529686873338
+    second: 48x48 - Explosive Assets, Blue-Sheet_2
+  - first:
+      213: 8775524398737360567
+    second: 48x48 - Explosive Assets, Blue-Sheet_3
+  - first:
+      213: -3345280023726545790
+    second: 48x48 - Explosive Assets, Blue-Sheet_4
+  - first:
+      213: 2357070478072612846
+    second: 48x48 - Explosive Assets, Blue-Sheet_5
+  - first:
+      213: 3054127715628477563
+    second: 48x48 - Explosive Assets, Blue-Sheet_6
+  - first:
+      213: 5496429036463621180
+    second: 48x48 - Explosive Assets, Blue-Sheet_7
+  - first:
+      213: 4922804643267615021
+    second: 48x48 - Explosive Assets, Blue-Sheet_8
+  - first:
+      213: -7621847760186607750
+    second: 48x48 - Explosive Assets, Blue-Sheet_9
+  - first:
+      213: 8422956729146771777
+    second: 48x48 - Explosive Assets, Blue-Sheet_10
+  - first:
+      213: -7905069595688445791
+    second: 48x48 - Explosive Assets, Blue-Sheet_11
+  - first:
+      213: -8337848921059409771
+    second: 48x48 - Explosive Assets, Blue-Sheet_12
+  - first:
+      213: 8415303809967820871
+    second: 48x48 - Explosive Assets, Blue-Sheet_13
+  - first:
+      213: -1823445839542873346
+    second: 48x48 - Explosive Assets, Blue-Sheet_14
+  - first:
+      213: -2168102942278376164
+    second: 48x48 - Explosive Assets, Blue-Sheet_15
+  - first:
+      213: 8783217003504396947
+    second: 48x48 - Explosive Assets, Blue-Sheet_16
+  - first:
+      213: -8333047185520626387
+    second: 48x48 - Explosive Assets, Blue-Sheet_17
+  - first:
+      213: 2143272888484016791
+    second: 48x48 - Explosive Assets, Blue-Sheet_18
+  - first:
+      213: -397280861191132859
+    second: 48x48 - Explosive Assets, Blue-Sheet_19
+  - first:
+      213: -7344757773992428
+    second: 48x48 - Explosive Assets, Blue-Sheet_20
+  - first:
+      213: -2186570129570169746
+    second: 48x48 - Explosive Assets, Blue-Sheet_21
+  - first:
+      213: -2464177939160432430
+    second: 48x48 - Explosive Assets, Blue-Sheet_22
+  - first:
+      213: -5436621650966065119
+    second: 48x48 - Explosive Assets, Blue-Sheet_23
+  - first:
+      213: -1827638291236873041
+    second: 48x48 - Explosive Assets, Blue-Sheet_24
+  - first:
+      213: -698978837421495073
+    second: 48x48 - Explosive Assets, Blue-Sheet_25
+  - first:
+      213: -1317769656446892804
+    second: 48x48 - Explosive Assets, Blue-Sheet_26
+  - first:
+      213: 6813465801634953357
+    second: 48x48 - Explosive Assets, Blue-Sheet_27
+  - first:
+      213: -8051219634671420994
+    second: 48x48 - Explosive Assets, Blue-Sheet_28
+  - first:
+      213: -4159363685021458989
+    second: 48x48 - Explosive Assets, Blue-Sheet_29
+  - first:
+      213: -6689188264809101917
+    second: 48x48 - Explosive Assets, Blue-Sheet_30
+  - first:
+      213: -6819810371650096098
+    second: 48x48 - Explosive Assets, Blue-Sheet_31
+  - first:
+      213: 627463237917524276
+    second: 48x48 - Explosive Assets, Blue-Sheet_32
+  - first:
+      213: -3475025045825603813
+    second: 48x48 - Explosive Assets, Blue-Sheet_33
+  - first:
+      213: 2770881198768097102
+    second: 48x48 - Explosive Assets, Blue-Sheet_34
+  - first:
+      213: -3467693620193273557
+    second: 48x48 - Explosive Assets, Blue-Sheet_35
+  - first:
+      213: 5252407699545298066
+    second: 48x48 - Explosive Assets, Blue-Sheet_36
+  - first:
+      213: 5734709772932214422
+    second: 48x48 - Explosive Assets, Blue-Sheet_37
+  - first:
+      213: -797391193786105874
+    second: 48x48 - Explosive Assets, Blue-Sheet_38
+  - first:
+      213: 8027760333077224481
+    second: 48x48 - Explosive Assets, Blue-Sheet_39
+  - first:
+      213: 285460100794665413
+    second: 48x48 - Explosive Assets, Blue-Sheet_40
+  - first:
+      213: 5448747794878097770
+    second: 48x48 - Explosive Assets, Blue-Sheet_41
+  - first:
+      213: 236786222046146210
+    second: 48x48 - Explosive Assets, Blue-Sheet_42
+  - first:
+      213: -7875884557040185267
+    second: 48x48 - Explosive Assets, Blue-Sheet_43
+  - first:
+      213: -8076121431627863032
+    second: 48x48 - Explosive Assets, Blue-Sheet_44
+  - first:
+      213: -7869942269790789267
+    second: 48x48 - Explosive Assets, Blue-Sheet_45
+  - first:
+      213: -8836753739080894887
+    second: 48x48 - Explosive Assets, Blue-Sheet_46
+  - first:
+      213: 3500815041721514579
+    second: 48x48 - Explosive Assets, Blue-Sheet_47
+  - first:
+      213: -2480435507871593091
+    second: 48x48 - Explosive Assets, Blue-Sheet_48
+  - first:
+      213: -292174655541552805
+    second: 48x48 - Explosive Assets, Blue-Sheet_49
+  - first:
+      213: 6274349350868323852
+    second: 48x48 - Explosive Assets, Blue-Sheet_50
+  - first:
+      213: 5856495985881283781
+    second: 48x48 - Explosive Assets, Blue-Sheet_51
+  - first:
+      213: -7452344012880869733
+    second: 48x48 - Explosive Assets, Blue-Sheet_52
+  - first:
+      213: -8586556675040471989
+    second: 48x48 - Explosive Assets, Blue-Sheet_53
+  - first:
+      213: -6405935138505813755
+    second: 48x48 - Explosive Assets, Blue-Sheet_54
+  - first:
+      213: 2683771137249964575
+    second: 48x48 - Explosive Assets, Blue-Sheet_55
+  - first:
+      213: 8355535130375620364
+    second: 48x48 - Explosive Assets, Blue-Sheet_56
+  - first:
+      213: 5385498475200145454
+    second: 48x48 - Explosive Assets, Blue-Sheet_57
+  - first:
+      213: -3649764120848636715
+    second: 48x48 - Explosive Assets, Blue-Sheet_58
+  - first:
+      213: 5858643826815100313
+    second: 48x48 - Explosive Assets, Blue-Sheet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 259
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6b5611c24b6f570800000000000000
+      internalID: 8500179448071829187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 259
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2a4364377f06ea0800000000000000
+      internalID: -5881429038874713407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 259
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4a8101a474c6e70800000000000000
+      internalID: 9109734529686873338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 259
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6838822fce8c970800000000000000
+      internalID: 8775524398737360567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 259
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284a19fda8d2391d0800000000000000
+      internalID: -3345280023726545790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 261
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7041c8c1ff5b020800000000000000
+      internalID: 2357070478072612846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 263
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ce5b4d9f0726a20800000000000000
+      internalID: 3054127715628477563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 260
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c348e8b561d374c40800000000000000
+      internalID: 5496429036463621180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 259
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d291c9cadb0515440800000000000000
+      internalID: 4922804643267615021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 260
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7778f928d1c93690800000000000000
+      internalID: -7621847760186607750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1498747b48a54e470800000000000000
+      internalID: 8422956729146771777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 207
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8df38e51d8b4290800000000000000
+      internalID: -7905069595688445791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590416505920a4c80800000000000000
+      internalID: -8337848921059409771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 207
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7409f1e9a3a29c470800000000000000
+      internalID: 8415303809967820871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 207
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef212e28ba1d1b6e0800000000000000
+      internalID: -1823445839542873346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 209
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15a4017cd959e1e0800000000000000
+      internalID: -2168102942278376164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 211
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aec07445144e970800000000000000
+      internalID: 8783217003504396947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 208
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2579723cb11b5c80800000000000000
+      internalID: -8333047185520626387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 207
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792b0d6265f6ebd10800000000000000
+      internalID: 2143272888484016791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 208
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54924a069239c7af0800000000000000
+      internalID: -397280861191132859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 162
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e7be15bf7e5eff0800000000000000
+      internalID: -7344757773992428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 162
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c7d765d0eb7a1e0800000000000000
+      internalID: -2186570129570169746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 162
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d00df8583b7dcdd0800000000000000
+      internalID: -2464177939160432430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 162
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12058f3b96d3d84b0800000000000000
+      internalID: -5436621650966065119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 162
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac9ce848ace2a6e0800000000000000
+      internalID: -1827638291236873041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 163
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdce9f1637abc46f0800000000000000
+      internalID: -698978837421495073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 162
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4c1b3ba7756bde0800000000000000
+      internalID: -1317769656446892804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 161
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8839bb1c0b4e8e50800000000000000
+      internalID: 6813465801634953357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 162
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb972c24662544090800000000000000
+      internalID: -8051219634671420994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 163
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddd2a604c8f646c0800000000000000
+      internalID: -4159363685021458989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 113
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a58758c6ba3b23a0800000000000000
+      internalID: -6689188264809101917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 113
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e147542999a2b51a0800000000000000
+      internalID: -6819810371650096098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 113
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431c0bd8d7235b800800000000000000
+      internalID: 627463237917524276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 113
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17bafdd12b36cfc0800000000000000
+      internalID: -3475025045825603813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 113
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47816ff4c5247620800000000000000
+      internalID: 2770881198768097102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 114
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29dd7a660740efc0800000000000000
+      internalID: -3467693620193273557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 113
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2949cea69fc44e840800000000000000
+      internalID: 5252407699545298066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 112
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ee5999728c59f40800000000000000
+      internalID: 5734709772932214422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 113
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefba5b1fe81fe4f0800000000000000
+      internalID: -797391193786105874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c1a037d75586f60800000000000000
+      internalID: 8027760333077224481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9c961037826f300800000000000000
+      internalID: 285460100794665413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69e6603047dd9b40800000000000000
+      internalID: 5448747794878097770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae64cc70db394300800000000000000
+      internalID: 236786222046146210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4092ad39bc33b290800000000000000
+      internalID: -7875884557040185267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ce6e8d85adbef80800000000000000
+      internalID: -8076121431627863032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61e94ec33958c290800000000000000
+      internalID: -7869942269790789267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 64
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9567a7e1b4b8d5580800000000000000
+      internalID: -8836753739080894887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ab72a7bb4659030800000000000000
+      internalID: 3500815041721514579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d4c092c09b39dd0800000000000000
+      internalID: -2480435507871593091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 68
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59d214e2bcf1fbf0800000000000000
+      internalID: -292174655541552805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 19
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e853fdd77f21750800000000000000
+      internalID: 6274349350868323852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc74f2f114764150800000000000000
+      internalID: 5856495985881283781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 19
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b960a30ca94f39890800000000000000
+      internalID: -7452344012880869733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 19
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b441474923c66d880800000000000000
+      internalID: -8586556675040471989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 19
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5011b2f7eeb8917a0800000000000000
+      internalID: -6405935138505813755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12fa3e41abae3520800000000000000
+      internalID: 2683771137249964575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 15
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07065a7ee2d4f370800000000000000
+      internalID: 8355535130375620364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2866b064522dba40800000000000000
+      internalID: 5385498475200145454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 19
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4e9de8ede695dc0800000000000000
+      internalID: -3649764120848636715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48x48 - Explosive Assets, Blue-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 18
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99569d225851e4150800000000000000
+      internalID: 5858643826815100313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

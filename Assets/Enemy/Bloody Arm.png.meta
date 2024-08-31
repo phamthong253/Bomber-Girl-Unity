@@ -1,0 +1,4465 @@
+fileFormatVersion: 2
+guid: 73e1ebf66bbf156429c741c16937af8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1321993867391657057
+    second: Bloody Arm_0
+  - first:
+      213: 2210758786314848835
+    second: Bloody Arm_1
+  - first:
+      213: -6828983640967315941
+    second: Bloody Arm_2
+  - first:
+      213: 3210784287083702740
+    second: Bloody Arm_3
+  - first:
+      213: -7394092991201010826
+    second: Bloody Arm_4
+  - first:
+      213: -4828092000314499673
+    second: Bloody Arm_5
+  - first:
+      213: 255313660545099968
+    second: Bloody Arm_6
+  - first:
+      213: -7248417114773539235
+    second: Bloody Arm_7
+  - first:
+      213: 1740845144549633630
+    second: Bloody Arm_8
+  - first:
+      213: 7910469056364807105
+    second: Bloody Arm_9
+  - first:
+      213: -7178292055313260641
+    second: Bloody Arm_10
+  - first:
+      213: -1333267491823070911
+    second: Bloody Arm_11
+  - first:
+      213: -3812957051049613670
+    second: Bloody Arm_12
+  - first:
+      213: 6522686156654660825
+    second: Bloody Arm_13
+  - first:
+      213: -6946730554098227389
+    second: Bloody Arm_14
+  - first:
+      213: 6049837001306344109
+    second: Bloody Arm_15
+  - first:
+      213: -109707526917445882
+    second: Bloody Arm_16
+  - first:
+      213: 8211002049779235848
+    second: Bloody Arm_17
+  - first:
+      213: -2505924493164765739
+    second: Bloody Arm_18
+  - first:
+      213: -8875980123686507433
+    second: Bloody Arm_19
+  - first:
+      213: 7301050743681041782
+    second: Bloody Arm_20
+  - first:
+      213: 4155001701218301851
+    second: Bloody Arm_21
+  - first:
+      213: -2009531480378882132
+    second: Bloody Arm_22
+  - first:
+      213: 8863296099032516047
+    second: Bloody Arm_23
+  - first:
+      213: 6773067087436572403
+    second: Bloody Arm_24
+  - first:
+      213: 1392277500499416524
+    second: Bloody Arm_25
+  - first:
+      213: -4669353192505342407
+    second: Bloody Arm_26
+  - first:
+      213: -5901363984050330066
+    second: Bloody Arm_27
+  - first:
+      213: 4685381106075134833
+    second: Bloody Arm_28
+  - first:
+      213: 741443246862171248
+    second: Bloody Arm_29
+  - first:
+      213: -8909628604065438647
+    second: Bloody Arm_30
+  - first:
+      213: -6656428971595075470
+    second: Bloody Arm_31
+  - first:
+      213: -7601624572233219665
+    second: Bloody Arm_32
+  - first:
+      213: -3861122404070802273
+    second: Bloody Arm_33
+  - first:
+      213: -3904304863709009195
+    second: Bloody Arm_34
+  - first:
+      213: 5128478187928083382
+    second: Bloody Arm_35
+  - first:
+      213: -8015656041263106223
+    second: Bloody Arm_36
+  - first:
+      213: 6098661582676014067
+    second: Bloody Arm_37
+  - first:
+      213: -5028197334066208096
+    second: Bloody Arm_38
+  - first:
+      213: 1113524323145347361
+    second: Bloody Arm_39
+  - first:
+      213: 1083682147030225544
+    second: Bloody Arm_40
+  - first:
+      213: 6892933635280066780
+    second: Bloody Arm_41
+  - first:
+      213: -7597869979657908198
+    second: Bloody Arm_42
+  - first:
+      213: 3175143128259914675
+    second: Bloody Arm_43
+  - first:
+      213: -4742816320924429628
+    second: Bloody Arm_44
+  - first:
+      213: -2892917667977363982
+    second: Bloody Arm_45
+  - first:
+      213: 4418845948788390261
+    second: Bloody Arm_46
+  - first:
+      213: 5348049656246440200
+    second: Bloody Arm_47
+  - first:
+      213: 6311410481301846728
+    second: Bloody Arm_48
+  - first:
+      213: 4404217828560827975
+    second: Bloody Arm_49
+  - first:
+      213: -767272195448902567
+    second: Bloody Arm_50
+  - first:
+      213: 5614085449641943018
+    second: Bloody Arm_51
+  - first:
+      213: 4961067412218774042
+    second: Bloody Arm_52
+  - first:
+      213: 8127742669919539926
+    second: Bloody Arm_53
+  - first:
+      213: 2677436048401491379
+    second: Bloody Arm_54
+  - first:
+      213: 1065180465038389199
+    second: Bloody Arm_55
+  - first:
+      213: -1634866623493526392
+    second: Bloody Arm_56
+  - first:
+      213: 3893286000437047392
+    second: Bloody Arm_57
+  - first:
+      213: -3333524766057264250
+    second: Bloody Arm_58
+  - first:
+      213: 4870151428131294359
+    second: Bloody Arm_59
+  - first:
+      213: 1839702797621579734
+    second: Bloody Arm_60
+  - first:
+      213: -7223040539618414078
+    second: Bloody Arm_61
+  - first:
+      213: -2821711468341441990
+    second: Bloody Arm_62
+  - first:
+      213: 5648471628508132288
+    second: Bloody Arm_63
+  - first:
+      213: -2209315358492317863
+    second: Bloody Arm_64
+  - first:
+      213: 1617331171772779253
+    second: Bloody Arm_65
+  - first:
+      213: -1947405438423978440
+    second: Bloody Arm_66
+  - first:
+      213: -5124384266832349813
+    second: Bloody Arm_67
+  - first:
+      213: 5595689629777174885
+    second: Bloody Arm_68
+  - first:
+      213: 7420930803297884707
+    second: Bloody Arm_69
+  - first:
+      213: 1156741276170850727
+    second: Bloody Arm_70
+  - first:
+      213: 6412477709310313352
+    second: Bloody Arm_71
+  - first:
+      213: 8765222104086442184
+    second: Bloody Arm_72
+  - first:
+      213: -539458928240932764
+    second: Bloody Arm_73
+  - first:
+      213: -2651258158254974485
+    second: Bloody Arm_74
+  - first:
+      213: -2347107433693244020
+    second: Bloody Arm_75
+  - first:
+      213: 3875733722671473992
+    second: Bloody Arm_76
+  - first:
+      213: 7538013255096572043
+    second: Bloody Arm_77
+  - first:
+      213: 3357980184628441408
+    second: Bloody Arm_78
+  - first:
+      213: 8100563299140821987
+    second: Bloody Arm_79
+  - first:
+      213: -4284894181543584924
+    second: Bloody Arm_80
+  - first:
+      213: -1700361613810991319
+    second: Bloody Arm_81
+  - first:
+      213: 642466089084763481
+    second: Bloody Arm_82
+  - first:
+      213: -9143058366621543285
+    second: Bloody Arm_83
+  - first:
+      213: 518879839887018200
+    second: Bloody Arm_84
+  - first:
+      213: 6794027932889645071
+    second: Bloody Arm_85
+  - first:
+      213: -8639123521273707700
+    second: Bloody Arm_86
+  - first:
+      213: -7664913683104249136
+    second: Bloody Arm_87
+  - first:
+      213: -9019564036011018331
+    second: Bloody Arm_88
+  - first:
+      213: -885585236946646591
+    second: Bloody Arm_89
+  - first:
+      213: -2413061395267252040
+    second: Bloody Arm_90
+  - first:
+      213: -8887366013004763179
+    second: Bloody Arm_91
+  - first:
+      213: -8089947146566137385
+    second: Bloody Arm_92
+  - first:
+      213: -9110804734341939752
+    second: Bloody Arm_93
+  - first:
+      213: -8023971043482419603
+    second: Bloody Arm_94
+  - first:
+      213: 4367521136427726988
+    second: Bloody Arm_95
+  - first:
+      213: 140374979655344159
+    second: Bloody Arm_96
+  - first:
+      213: 1782414391152732099
+    second: Bloody Arm_97
+  - first:
+      213: -264775657816476154
+    second: Bloody Arm_98
+  - first:
+      213: 4032405539485645294
+    second: Bloody Arm_99
+  - first:
+      213: 332098956886166567
+    second: Bloody Arm_100
+  - first:
+      213: 5299507044593981936
+    second: Bloody Arm_101
+  - first:
+      213: -7053315214037541040
+    second: Bloody Arm_102
+  - first:
+      213: -2206079840680603816
+    second: Bloody Arm_103
+  - first:
+      213: 7256458569141096647
+    second: Bloody Arm_104
+  - first:
+      213: -1407072967162285198
+    second: Bloody Arm_105
+  - first:
+      213: 8854061327579482132
+    second: Bloody Arm_106
+  - first:
+      213: -520767168862495945
+    second: Bloody Arm_107
+  - first:
+      213: -7154133621695054131
+    second: Bloody Arm_108
+  - first:
+      213: 674947328019636035
+    second: Bloody Arm_109
+  - first:
+      213: -4308926550114590156
+    second: Bloody Arm_110
+  - first:
+      213: 559682377742470359
+    second: Bloody Arm_111
+  - first:
+      213: 8979416084520198118
+    second: Bloody Arm_112
+  - first:
+      213: 5450420601751331729
+    second: Bloody Arm_113
+  - first:
+      213: -4386765821323366979
+    second: Bloody Arm_114
+  - first:
+      213: -962327831462497298
+    second: Bloody Arm_115
+  - first:
+      213: 7226774640453512951
+    second: Bloody Arm_116
+  - first:
+      213: -6447751669328991460
+    second: Bloody Arm_117
+  - first:
+      213: 8278222959461109618
+    second: Bloody Arm_118
+  - first:
+      213: 8429806267165463844
+    second: Bloody Arm_119
+  - first:
+      213: 3781693796057881742
+    second: Bloody Arm_120
+  - first:
+      213: 4652639151851628136
+    second: Bloody Arm_121
+  - first:
+      213: -4643685097603404726
+    second: Bloody Arm_122
+  - first:
+      213: -3832950994026487616
+    second: Bloody Arm_123
+  - first:
+      213: 3314995016065949594
+    second: Bloody Arm_124
+  - first:
+      213: -9010177369263033755
+    second: Bloody Arm_125
+  - first:
+      213: 7638419386615542526
+    second: Bloody Arm_126
+  - first:
+      213: 3700399234246134067
+    second: Bloody Arm_127
+  - first:
+      213: 909316243241894846
+    second: Bloody Arm_128
+  - first:
+      213: -8165947215540977334
+    second: Bloody Arm_129
+  - first:
+      213: -7565226034835919963
+    second: Bloody Arm_130
+  - first:
+      213: 6232228717703876712
+    second: Bloody Arm_131
+  - first:
+      213: -3953800361331180003
+    second: Bloody Arm_132
+  - first:
+      213: -8879246700093675948
+    second: Bloody Arm_133
+  - first:
+      213: -3370858294468622459
+    second: Bloody Arm_134
+  - first:
+      213: -7692076683500917949
+    second: Bloody Arm_135
+  - first:
+      213: -7338238064399514686
+    second: Bloody Arm_136
+  - first:
+      213: -5717187471713826923
+    second: Bloody Arm_137
+  - first:
+      213: 5800119649850521044
+    second: Bloody Arm_138
+  - first:
+      213: -3005598430421736215
+    second: Bloody Arm_139
+  - first:
+      213: -1729165254971695002
+    second: Bloody Arm_140
+  - first:
+      213: 7205066070273548076
+    second: Bloody Arm_141
+  - first:
+      213: -6791394681053040424
+    second: Bloody Arm_142
+  - first:
+      213: -8883186618979104939
+    second: Bloody Arm_143
+  - first:
+      213: -7801089484064603990
+    second: Bloody Arm_144
+  - first:
+      213: -7565938431497056201
+    second: Bloody Arm_145
+  - first:
+      213: 3366421402922552981
+    second: Bloody Arm_146
+  - first:
+      213: -5749489833640400220
+    second: Bloody Arm_147
+  - first:
+      213: -8757984047875762712
+    second: Bloody Arm_148
+  - first:
+      213: -7598879786338170602
+    second: Bloody Arm_149
+  - first:
+      213: -7126321514214797039
+    second: Bloody Arm_150
+  - first:
+      213: 3456898251786019623
+    second: Bloody Arm_151
+  - first:
+      213: 7448746198596425728
+    second: Bloody Arm_152
+  - first:
+      213: -182036051966566152
+    second: Bloody Arm_153
+  - first:
+      213: 2256948735942595588
+    second: Bloody Arm_154
+  - first:
+      213: -1281217677614044934
+    second: Bloody Arm_155
+  - first:
+      213: -429235182857266574
+    second: Bloody Arm_156
+  - first:
+      213: 7173415180616388941
+    second: Bloody Arm_157
+  - first:
+      213: 8658176110524360703
+    second: Bloody Arm_158
+  - first:
+      213: -5101129284583860978
+    second: Bloody Arm_159
+  - first:
+      213: -7095154357956409999
+    second: Bloody Arm_160
+  - first:
+      213: 4488762775081730327
+    second: Bloody Arm_161
+  - first:
+      213: 6141942281869204790
+    second: Bloody Arm_162
+  - first:
+      213: -4369128261981125843
+    second: Bloody Arm_163
+  - first:
+      213: 5579711582482700385
+    second: Bloody Arm_164
+  - first:
+      213: -4669851784992003133
+    second: Bloody Arm_165
+  - first:
+      213: 7912421220258716771
+    second: Bloody Arm_166
+  - first:
+      213: 4852187956220647390
+    second: Bloody Arm_167
+  - first:
+      213: 9014267025541562614
+    second: Bloody Arm_168
+  - first:
+      213: 3305788922321473010
+    second: Bloody Arm_169
+  - first:
+      213: -6628062544332747592
+    second: Bloody Arm_170
+  - first:
+      213: -1476559809221467635
+    second: Bloody Arm_171
+  - first:
+      213: -2629885169835005067
+    second: Bloody Arm_172
+  - first:
+      213: -6285523330432695436
+    second: Bloody Arm_173
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bloody Arm_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1293
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b10e2f49557ade0800000000000000
+      internalID: -1321993867391657057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1296
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ace5e27613eae10800000000000000
+      internalID: 2210758786314848835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1299
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e703f5f839a31a0800000000000000
+      internalID: -6828983640967315941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1297
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9a7023c4ffe8c20800000000000000
+      internalID: 3210784287083702740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1303
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b124f9997e26990800000000000000
+      internalID: -7394092991201010826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad5952f7eb2ffcb0800000000000000
+      internalID: -4828092000314499673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_6
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1297
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8681beb6e0b8300800000000000000
+      internalID: 255313660545099968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1169
+        width: 11
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56bf02b903786b90800000000000000
+      internalID: -7248417114773539235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1238
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e28d18f69b82810800000000000000
+      internalID: 1740845144549633630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1243
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3085ff1b1a7cd60800000000000000
+      internalID: 7910469056364807105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1174
+        width: 8
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f5b0d6865916c90800000000000000
+      internalID: -7178292055313260641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1169
+        width: 9
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1415f47b7484f7de0800000000000000
+      internalID: -1333267491823070911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1174
+        width: 9
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96ed5493c7a51bc0800000000000000
+      internalID: -3812957051049613670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1231
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc42c4308c358a50800000000000000
+      internalID: 6522686156654660825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1169
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3476f9ccd51489f90800000000000000
+      internalID: -6946730554098227389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1176
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa01e303b655f350800000000000000
+      internalID: 6049837001306344109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1178
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60726e4e59d3a7ef0800000000000000
+      internalID: -109707526917445882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c781b4cd653f170800000000000000
+      internalID: 8211002049779235848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd96fe43fa293dd0800000000000000
+      internalID: -2505924493164765739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cec3eba1f22d480800000000000000
+      internalID: -8875980123686507433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1101
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675c53008fa825560800000000000000
+      internalID: 7301050743681041782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1102
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97b24a780889a930800000000000000
+      internalID: 4155001701218301851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_22
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca74d0bf3c5bc14e0800000000000000
+      internalID: -2009531480378882132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1105
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc540f1a7d0c00b70800000000000000
+      internalID: 8863296099032516047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1109
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6eb8a71a4cefd50800000000000000
+      internalID: 6773067087436572403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_25
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1114
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc55906920d525310800000000000000
+      internalID: 1392277500499416524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1106
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93602edb200233fb0800000000000000
+      internalID: -4669353192505342407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26656829b42a1ea0800000000000000
+      internalID: -5901363984050330066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1037
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b6fe0ba41d50140800000000000000
+      internalID: 4685381106075134833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1034
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cf45664b22a4a00800000000000000
+      internalID: 741443246862171248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1035
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94425066df3aa5480800000000000000
+      internalID: -8909628604065438647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1039
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270f47b1e1d9f93a0800000000000000
+      internalID: -6656428971595075470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_32
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1040
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa188280aba918690800000000000000
+      internalID: -7601624572233219665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_33
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1041
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cbe0f61a98a6ac0800000000000000
+      internalID: -3861122404070802273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_34
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1040
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da6bcf896f11d9c0800000000000000
+      internalID: -3904304863709009195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_35
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1039
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbdac57db30c2740800000000000000
+      internalID: 5128478187928083382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 913
+        width: 9
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1577cca9c4ba2c090800000000000000
+      internalID: -8015656041263106223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 974
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3b9b8b56cc2a450800000000000000
+      internalID: 6098661582676014067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 975
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2ea6a4a21483ab0800000000000000
+      internalID: -5028197334066208096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_39
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 977
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121f5d1e878047f00800000000000000
+      internalID: 1113524323145347361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_40
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 976
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8825b2fcb230a0f00800000000000000
+      internalID: 1083682147030225544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_41
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 976
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8d537fe9e98af50800000000000000
+      internalID: 6892933635280066780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 976
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10d2ec3281fe8690800000000000000
+      internalID: -7597869979657908198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_43
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 977
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb64fe3adf501c20800000000000000
+      internalID: 3175143128259914675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 912
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2df544fa12e2eb0800000000000000
+      internalID: -4742816320924429628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_45
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 913
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdf1c355ba4ad7d0800000000000000
+      internalID: -2892917667977363982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 917
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579b4b67af4e25d30800000000000000
+      internalID: 4418845948788390261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_47
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 914
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80118b1c3d6183a40800000000000000
+      internalID: 5348049656246440200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_48
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 912
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca7ca9b462a69750800000000000000
+      internalID: 6311410481301846728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_49
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 914
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7467fc0d7ccee1d30800000000000000
+      internalID: 4404217828560827975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_50
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 917
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ceb30e00a1a55f0800000000000000
+      internalID: -767272195448902567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 909
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefd894c8fc39ed40800000000000000
+      internalID: 5614085449641943018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 845
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12011cc68049d440800000000000000
+      internalID: 4961067412218774042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 846
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2d65a45ea8bc070800000000000000
+      internalID: 8127742669919539926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 847
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5ebcd76e9282520800000000000000
+      internalID: 2677436048401491379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 849
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf6c484df748ce00800000000000000
+      internalID: 1065180465038389199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 848
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ca683c779cf49e0800000000000000
+      internalID: -1634866623493526392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_57
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 847
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0603d096dfab70630800000000000000
+      internalID: 3893286000437047392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_58
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 848
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b803513e0fcb1d0800000000000000
+      internalID: -3333524766057264250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 849
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c8024bbe0469340800000000000000
+      internalID: 4870151428131294359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_60
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 782
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfc68082ffe78910800000000000000
+      internalID: 1839702797621579734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 782
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2027cc506ea92cb90800000000000000
+      internalID: -7223040539618414078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 784
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3accde9e5447d8d0800000000000000
+      internalID: -2821711468341441990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_63
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 785
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3791de407636e40800000000000000
+      internalID: 5648471628508132288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_64
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 784
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957204c036fe651e0800000000000000
+      internalID: -2209315358492317863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 782
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5facea9b12ae17610800000000000000
+      internalID: 1617331171772779253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_66
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 781
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e2311521d69f4e0800000000000000
+      internalID: -1947405438423978440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_67
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 780
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b857bd2d8a782e8b0800000000000000
+      internalID: -5124384266832349813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_68
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 781
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561a4303212e7ad40800000000000000
+      internalID: 5595689629777174885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_69
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 657
+        width: 9
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a13517f317cf660800000000000000
+      internalID: 7420930803297884707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_70
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 656
+        width: 10
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1123fdf029d0010800000000000000
+      internalID: 1156741276170850727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_71
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 717
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8834d897082bdf850800000000000000
+      internalID: 6412477709310313352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_72
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 655
+        width: 13
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c07973401354a970800000000000000
+      internalID: 8765222104086442184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 653
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468494386f47388f0800000000000000
+      internalID: -539458928240932764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_74
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 657
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be91b5580c6d43bd0800000000000000
+      internalID: -2651258158254974485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_75
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 653
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85190d79366d6fd0800000000000000
+      internalID: -2347107433693244020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_76
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 656
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845e5d7494f59c530800000000000000
+      internalID: 3875733722671473992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 652
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88973e0e176c9860800000000000000
+      internalID: 7538013255096572043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_78
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 654
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0413493cf21f99e20800000000000000
+      internalID: 3357980184628441408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_79
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 650
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3ead5e66bfa6070800000000000000
+      internalID: 8100563299140821987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_80
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 652
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bd4f8b17ff884c0800000000000000
+      internalID: -4284894181543584924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_81
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 657
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ff5130f1a1768e0800000000000000
+      internalID: -1700361613810991319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_82
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 653
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95db12c018f7ae800800000000000000
+      internalID: 642466089084763481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_83
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 655
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b841cd88bd45d1180800000000000000
+      internalID: -9143058366621543285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_84
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 655
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8c399177e633700800000000000000
+      internalID: 518879839887018200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_85
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 589
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0008fd986c394e50800000000000000
+      internalID: 6794027932889645071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_86
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 588
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4342cfedeaab1880800000000000000
+      internalID: -8639123521273707700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_87
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 529
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da4a8c9d91c0a590800000000000000
+      internalID: -7664913683104249136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 588
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7bca40c4214d280800000000000000
+      internalID: -9019564036011018331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_89
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 588
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c907754be4c5b3f0800000000000000
+      internalID: -885585236946646591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_90
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 588
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b013e92275138ed0800000000000000
+      internalID: -2413061395267252040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_91
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 588
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfa8fdc2bbb9a480800000000000000
+      internalID: -8887366013004763179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_92
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 588
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d98d3dbeebbabf80800000000000000
+      internalID: -8089947146566137385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_93
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 589
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddf99f7d5bef8180800000000000000
+      internalID: -9110804734341939752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_94
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 525
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eb53949d025a090800000000000000
+      internalID: -8023971043482419603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_95
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 536
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88f8cd555d8c9c30800000000000000
+      internalID: 4367521136427726988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_96
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 535
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10a5bddc46b2f100800000000000000
+      internalID: 140374979655344159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_97
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 462
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7e333f1786cb810800000000000000
+      internalID: 1782414391152732099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_98
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 464
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606bdaa21f3535cf0800000000000000
+      internalID: -264775657816476154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_99
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 472
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9fb5b397bf5f730800000000000000
+      internalID: 4032405539485645294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_100
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 472
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c4a73ed3adb9400800000000000000
+      internalID: 332098956886166567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_101
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 401
+        width: 9
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f954bd3491ab8940800000000000000
+      internalID: 5299507044593981936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_102
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 460
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f1f62de279d1e90800000000000000
+      internalID: -7053315214037541040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_103
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f051eb21e6261e0800000000000000
+      internalID: -2206079840680603816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_104
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 398
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c09efc4f9e14b460800000000000000
+      internalID: 7256458569141096647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 333
+        width: 9
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273bc336792197ce0800000000000000
+      internalID: -1407072967162285198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_106
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 333
+        width: 10
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41806e9ddd1ffda70800000000000000
+      internalID: 8854061327579482132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_107
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 401
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bd341e40dd5c8f0800000000000000
+      internalID: -520767168862495945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_108
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 397
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceff23106967bc90800000000000000
+      internalID: -7154133621695054131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_109
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 401
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f95b0d405ed5900800000000000000
+      internalID: 674947328019636035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_110
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432ab21e12e9334c0800000000000000
+      internalID: -4308926550114590156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_111
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 333
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcc260482464c700800000000000000
+      internalID: 559682377742470359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_112
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 331
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef51489a5b4d9c70800000000000000
+      internalID: 8979416084520198118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_113
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 333
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193ebd3e8a8c3ab40800000000000000
+      internalID: 5450420601751331729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_114
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 333
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd22334ab31f13c0800000000000000
+      internalID: -4386765821323366979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_115
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 269
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3b4389fef15a2f0800000000000000
+      internalID: -962327831462497298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_116
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 266
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe68041f39aa4460800000000000000
+      internalID: 7226774640453512951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_117
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 269
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ba6b5b40cf486a0800000000000000
+      internalID: -6447751669328991460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_118
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 271
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f8926fbe722e270800000000000000
+      internalID: 8278222959461109618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_119
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 272
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42552cf0320bcf470800000000000000
+      internalID: 8429806267165463844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_120
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 278
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c1453a8764b7430800000000000000
+      internalID: 3781693796057881742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_121
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 278
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866e03a68ae719040800000000000000
+      internalID: 4652639151851628136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_122
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 275
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ce29cc1015e8fb0800000000000000
+      internalID: -4643685097603404726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_123
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 275
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c02297f06f9ecac0800000000000000
+      internalID: -3832950994026487616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_124
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 272
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f1dcc476a310e20800000000000000
+      internalID: 3314995016065949594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_125
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 271
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56230ddab6b65f280800000000000000
+      internalID: -9010177369263033755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_126
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 271
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef23da846fd110a60800000000000000
+      internalID: 7638419386615542526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_127
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 271
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3394e5c7f757a5330800000000000000
+      internalID: 3700399234246134067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_128
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 208
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb30de23e4a8e9c00800000000000000
+      internalID: 909316243241894846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_129
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 210
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a410713c54abcae80800000000000000
+      internalID: -8165947215540977334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_130
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 216
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab611ce00be20790800000000000000
+      internalID: -7565226034835919963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_131
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 216
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8605abdbff25d7650800000000000000
+      internalID: 6232228717703876712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_132
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 217
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e3b0ef4874129c0800000000000000
+      internalID: -3953800361331180003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_133
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 216
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4566bd7ab2496c480800000000000000
+      internalID: -8879246700093675948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_134
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 217
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587c402ad3e4831d0800000000000000
+      internalID: -3370858294468622459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_135
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 216
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34becdeb201404590800000000000000
+      internalID: -7692076683500917949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_136
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 216
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3873e2c57592a90800000000000000
+      internalID: -7338238064399514686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_137
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 216
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5970f22194878a0b0800000000000000
+      internalID: -5717187471713826923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_138
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 216
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d57a18571a2e7050800000000000000
+      internalID: 5800119649850521044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_139
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 145
+        width: 11
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4ad31e628f946d0800000000000000
+      internalID: -3005598430421736215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_140
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 206
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660e673bc55c008e0800000000000000
+      internalID: -1729165254971695002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_141
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 144
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fdfd5ba698df360800000000000000
+      internalID: 7205066070273548076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_142
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 147
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d03b5a158e10c1a0800000000000000
+      internalID: -6791394681053040424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_143
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 150
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5574f3ec5d498b480800000000000000
+      internalID: -8883186618979104939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_144
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 151
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa04b493276fcb390800000000000000
+      internalID: -7801089484064603990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_145
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 149
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73054262513600790800000000000000
+      internalID: -7565938431497056201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_146
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 151
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e887d0e6ee7be20800000000000000
+      internalID: 3366421402922552981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_147
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 153
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aae42a5575b530b0800000000000000
+      internalID: -5749489833640400220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_148
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 153
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5d3d509e3657680800000000000000
+      internalID: -8757984047875762712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_149
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 151
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619ca6c481b5b8690800000000000000
+      internalID: -7598879786338170602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_150
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 150
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111d006f6583a1d90800000000000000
+      internalID: -7126321514214797039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_151
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 145
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723ef5205ae59ff20800000000000000
+      internalID: 3456898251786019623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_152
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 150
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0089165d3334f5760800000000000000
+      internalID: 7448746198596425728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_153
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0e73adc27497df0800000000000000
+      internalID: -182036051966566152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_154
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 77
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4041022eaea425f10800000000000000
+      internalID: 2256948735942595588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_155
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 78
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af82dd57f43383ee0800000000000000
+      internalID: -1281217677614044934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_156
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 79
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a51b810ec0b0af0800000000000000
+      internalID: -429235182857266574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_157
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 81
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41d803b9171d8360800000000000000
+      internalID: 7173415180616388941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_158
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 86
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7e39eac45082870800000000000000
+      internalID: 8658176110524360703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_159
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 88
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05590f41f52539b0800000000000000
+      internalID: -5101129284583860978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_160
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 88
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175817304b2f88d90800000000000000
+      internalID: -7095154357956409999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_161
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 88
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7114eb126f94b4e30800000000000000
+      internalID: 4488762775081730327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_162
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 88
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d14c5c6ff8c3550800000000000000
+      internalID: 6141942281869204790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_163
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 86
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23ce7e8efcbd53c0800000000000000
+      internalID: -4369128261981125843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_164
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 81
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16893072f1e1f6d40800000000000000
+      internalID: 5579711582482700385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_165
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 80
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbe3d12b8a513fb0800000000000000
+      internalID: -4669851784992003133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_166
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 81
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c98c29d219ecd60800000000000000
+      internalID: 7912421220258716771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_167
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7d5f9fc3f665340800000000000000
+      internalID: 4852187956220647390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_168
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f00cef991c191d70800000000000000
+      internalID: 9014267025541562614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_169
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd8461928580ed20800000000000000
+      internalID: 3305788922321473010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_170
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc89ff9b346404a0800000000000000
+      internalID: -6628062544332747592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_171
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d026cb93da4328be0800000000000000
+      internalID: -1476559809221467635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_172
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57baaeb2f55c08bd0800000000000000
+      internalID: -2629885169835005067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloody Arm_173
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 4
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473012645d555c8a0800000000000000
+      internalID: -6285523330432695436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
